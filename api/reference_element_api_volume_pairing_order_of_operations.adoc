@@ -1,0 +1,37 @@
+---
+permalink: api/reference_element_api_volume_pairing_order_of_operations.html 
+sidebar: sidebar 
+keywords: volume,pairing,order,operations,volumes,pairing,pair,pairs 
+summary: Vous devez créer une paire de clusters entre deux clusters correspondants avant de pouvoir coupler les volumes. 
+---
+= Ordre des opérations de couplage de volume
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Vous devez créer une paire de clusters entre deux clusters correspondants avant de pouvoir coupler les volumes.
+
+Utiliser l'ensemble suivant de méthodes API pour établir une connexion au cluster :
+
+* xref:reference_element_api_startvolumepairing.adoc[StartVolumePairing]:
++
+Cette méthode API crée et renvoie une clé de couplage de volume utilisée pour créer une paire de volumes. La clé contient des informations qui sont utilisées pour établir des communications entre les volumes.
+
+* xref:reference_element_api_completevolumepairing.adoc[Couplage complet VolumePairing]:
++
+Cette méthode utilise la clé de couplage créée avec la xref:reference_element_api_startvolumepairing.adoc[StartVolumePairing]méthode API pour créer une paire de volumes. Exécutez la xref:reference_element_api_completevolumepairing.adoc[Couplage complet VolumePairing]méthode API avec les paramètres volumeID et volumePairingKey sur le volume de destination.
+
+
+
+Un seul des volumes couplés peut être identifié comme un volume cible de réplication. Utilisez xref:reference_element_api_modifyvolumepair.adoc[ModityVolumepair]la méthode API pour établir le sens de la réplication des données du volume en identifiant le volume cible. Les données sont répliquées depuis le volume source vers le volume cible.
+
+
+
+== Trouvez plus d'informations
+
+* xref:reference_element_api_startvolumepairing.adoc[StartVolumePairing]
+* xref:reference_element_api_completevolumepairing.adoc[Couplage complet VolumePairing]
+* xref:reference_element_api_modifyvolumepair.adoc[ModityVolumepair]
+
