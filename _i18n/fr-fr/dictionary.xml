@@ -7989,7 +7989,6 @@
   <block id="6d8cd87a85946daeae42cb54aade3baa" category="section-title">Étape 1 : télécharger ISO ou OVA et déployer la machine virtuelle</block>
   <block id="90c4d8ddd76d9f5f86c144316cec5657" category="paragraph">Télécharger la version ISO ou OVA appropriée depuis le site de support NetApp et installer la machine virtuelle.</block>
   <block id="12b8893b065179b6b80fdc2d448862df" category="inline-link-macro">Logiciel Element</block>
-  <block id="4aee9657f267c579c49541b5f19ca32c" category="list-text">Téléchargez la certification OVA ou ISO pour votre installation depuis la <block ref="00b11b6abe7f0003872aa657422c59ae" category="inline-link-macro-rx"></block> page du site de support NetApp. La nouvelle OVA contient un certificat SSL mis à jour.</block>
   <block id="7b4b2bec7b806d58982537647a92deef" category="list-text">Sélectionnez *Télécharger la dernière version* et acceptez le CLUF.</block>
   <block id="9fd5f1f79bb7ead4a7bdb1a4e6b94825" category="list-text">Sélectionnez l'image du nœud de gestion à télécharger.</block>
   <block id="b8ccf40afa6e3a195a8f4d93c8daa17d" category="list-text">Si vous avez téléchargé l'OVA, procédez comme suit :</block>
@@ -12303,4 +12302,5 @@
   <block id="bc0ffe4508f685d32386d4fcd929dd50" category="list-text">« HH:mm:ss »</block>
   <block id="99eb6e1c13e9ae0bb02e022566f20121" category="paragraph">Inclut le nom unique donné au planning, la période de conservation du snapshot créé et l'ID du volume à partir duquel le snapshot a été créé. Valeurs valides :</block>
   <block id="65dc2083558f47cd1151751a12c24549" category="paragraph">flottant ou entier en fonction du type d'opération de synchronisation</block>
+  <block id="e43f2538484fde027e53efbedb634fce" category="list-text">Téléchargez la certification OVA ou ISO pour votre installation depuis la <block ref="00b11b6abe7f0003872aa657422c59ae" category="inline-link-macro-rx"></block> page du site de support NetApp.</block>
 </blocks>
