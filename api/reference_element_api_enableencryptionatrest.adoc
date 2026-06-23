@@ -14,7 +14,7 @@ summary: 'Vous pouvez utiliser la méthode EnableEncryptionAtRest pour activer l
 Vous pouvez utiliser la `EnableEncryptionAtRest` méthode pour activer le chiffrement AES 256 bits au repos sur le cluster, afin que le cluster puisse gérer la clé de chiffrement utilisée pour les disques de chaque nœud. Cette fonctionnalité n'est pas activée par défaut.
 
 
-TIP: Pour afficher l'état actuel du chiffrement au repos et/ou du chiffrement logiciel au repos sur le cluster, utilisez le link:../api/reference_element_api_getclusterinfo["obtenir la méthode d'information sur le cluster"^]. Vous pouvez utiliser le `GetSoftwareEncryptionAtRestInfo` link:../api/reference_element_api_getsoftwareencryptionatrestinfo["méthode d'obtention des informations que le cluster utilise pour chiffrer les données au repos"^].
+TIP: Pour afficher l'état actuel du chiffrement au repos et/ou du chiffrement logiciel au repos sur le cluster, utilisez le link:../api/reference_element_api_getclusterinfo.html["obtenir la méthode d'information sur le cluster"^]. Vous pouvez utiliser le `GetSoftwareEncryptionAtRestInfo` link:../api/reference_element_api_getsoftwareencryptionatrestinfo.html["méthode d'obtention des informations que le cluster utilise pour chiffrer les données au repos"^].
 
 
 NOTE: Cette méthode n'active pas le chiffrement logiciel au repos. Cette opération ne peut être effectuée qu'à l'aide link:../api/reference_element_api_createcluster.html["créer une méthode de cluster"^]du avec `enableSoftwareEncryptionAtRest` défini sur `true`.

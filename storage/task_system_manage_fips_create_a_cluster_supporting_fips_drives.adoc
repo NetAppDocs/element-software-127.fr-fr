@@ -15,8 +15,8 @@ La sécurité devient de plus en plus cruciale pour le déploiement de solutions
 
 * link:task_system_manage_fips_avoid_mixing_nodes_for_fips_drives.html["Évitez de mélanger les nœuds pour les disques FIPS"]
 * link:task_system_manage_fips_enable_encryption_at_rest.html["Activation du chiffrement des données au repos"]
-* link:task_system_manage_fips_identify_nodes_ready_for_fips_drives["Identifiez si les nœuds sont prêts pour la fonctionnalité disques FIPS"]
+* link:task_system_manage_fips_identify_nodes_ready_for_fips_drives.html["Identifiez si les nœuds sont prêts pour la fonctionnalité disques FIPS"]
 * link:task_system_manage_fips_enable_the_fips_drives_feature.html["Activez la fonctionnalité disques FIPS"]
 * link:task_system_manage_fips_check_the_fips_drive_status.html["Vérifiez l'état du lecteur FIPS"]
-* link:task_system_manage_fips_troubleshoot_the_fips_drive_feature["Dépannez la fonctionnalité de lecteur FIPS"]
+* link:task_system_manage_fips_troubleshoot_the_fips_drive_feature.html["Dépannez la fonctionnalité de lecteur FIPS"]
 

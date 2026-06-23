@@ -44,7 +44,7 @@ IMPORTANT: Vous devez configurer les interfaces de gestion (Bond1G) et de stocka
 .Étapes
 . Dans une fenêtre de navigateur, entrez l'adresse IP DHCP d'un nœud.
 +
-Vous devez ajouter l'extension `:442` pour accéder au nœud ; par exemple, https://172.25.103.6:442[] .
+Vous devez ajouter l'extension  `:442` pour accéder au nœud ; par exemple,  `\https://172.25.103.6:442`.
 
 +
 L'onglet *Paramètres réseau* s'ouvre avec la section *Bond1G*.
