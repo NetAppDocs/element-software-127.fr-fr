@@ -17,6 +17,7 @@ Les informations relatives aux snapshots qui résident sur le cluster cible s'af
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode présente les paramètres d'entrée suivants :
@@ -52,6 +53,7 @@ Non
 |===
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -70,6 +72,7 @@ xref:reference_element_api_snapshot.adoc[snapshot] baie
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -86,6 +89,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -124,6 +128,7 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6

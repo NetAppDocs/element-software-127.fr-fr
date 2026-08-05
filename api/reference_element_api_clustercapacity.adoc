@@ -15,6 +15,7 @@ L'objet clusterCapacity contient des mesures de capacité de haut niveau pour le
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -222,6 +223,7 @@ entier
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_getclustercapacity.adoc[GetClusterCapacity]

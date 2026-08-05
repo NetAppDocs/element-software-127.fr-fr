@@ -19,6 +19,7 @@ Vous pouvez planifier des snapshots de volumes de manière autonome à des inter
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

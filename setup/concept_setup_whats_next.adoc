@@ -24,6 +24,7 @@ Une fois le logiciel Element configuré, vous gérez le stockage en effectuant c
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

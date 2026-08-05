@@ -39,6 +39,7 @@ Si vous souhaitez consacrer plus de temps à la mise sous tension des nœuds et 
 ====
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 https://kb.netapp.com/Advice_and_Troubleshooting/Data_Storage_Software/Element_Software/How_to_gracefully_shut_down_and_power_on_a_NetApp_Solidfire_HCI_storage_cluster["Comment mettre hors tension et hors tension en toute simplicité un cluster de stockage NetApp SolidFire/HCI"^]

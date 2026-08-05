@@ -284,7 +284,7 @@ Nœud de gestion
  a| 
 443
  a| 
-Mises à niveau du firmware du stockage Element
+Mises à niveau du stockage Element
 
 
 
@@ -546,6 +546,7 @@ Enregistrement du plug-in vCenter. Le port peut être fermé une fois l'enregist
 |===
 
 
+[[for-more-information]]
 == Pour en savoir plus
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

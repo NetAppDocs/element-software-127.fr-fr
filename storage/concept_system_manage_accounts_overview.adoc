@@ -19,6 +19,7 @@ Dans les systèmes de stockage SolidFire, les locataires peuvent utiliser des co
 
 
 
+[[for-more-information]]
 == Pour en savoir plus
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

@@ -15,6 +15,7 @@ Vous pouvez utiliser la `EnableIdpAuthentication` méthode pour activer la prise
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode dispose du paramètre d'entrée suivant :
@@ -37,12 +38,14 @@ Non
 |===
 
 
+[[return-values]]
 == Valeurs de retour
 
 Cette méthode n'a pas de valeurs de retour.
 
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -58,6 +61,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -70,6 +74,7 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 12,0

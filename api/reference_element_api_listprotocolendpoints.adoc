@@ -15,6 +15,7 @@ Vous pouvez utiliser `ListProtocolEndpoints` la méthode pour récupérer des in
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode dispose du paramètre d'entrée suivant :
@@ -37,6 +38,7 @@ Non
 |===
 
 
+[[return-values]]
 == Valeurs de retour
 
 Cette méthode a la valeur de retour suivante :
@@ -55,6 +57,7 @@ xref:reference_element_api_protocolendpoint.adoc[ProtocolEndpoint] baie
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -69,6 +72,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -117,6 +121,7 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6

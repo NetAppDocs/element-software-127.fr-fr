@@ -32,6 +32,7 @@ NOTE: À partir de la version 11.0 de l'élément, les nœuds peuvent être conf
 
 
 
+[[authoritative-storage-clusters]]
 == Clusters de stockage faisant autorité
 
 Le cluster de stockage faisant autorité est le cluster de stockage que NetApp Hybrid Cloud Control utilise pour authentifier les utilisateurs.
@@ -46,18 +47,21 @@ Pour plus d'informations sur l'utilisation des actifs de cluster de stockage de 
 
 
 
+[[rule-of-thirds]]
 == Règle des tiers
 
 Lorsque vous combinez des types de nœuds de stockage dans un cluster de stockage NetApp SolidFire, aucun nœud de stockage ne peut contenir plus de 33 % de la capacité totale du cluster de stockage.
 
 
 
+[[stranded-capacity]]
 == La capacité inutilisée
 
 Si un nouveau nœud ajouté augmente la capacité totale du cluster de plus de 50 %, une partie de cette capacité devient inutilisable (« bloqué »), afin de lui conformer à la règle de capacité. Ce qui reste le cas jusqu'à ce que de la capacité de stockage supplémentaire soit ajoutée. Si un nœud très volumineux est ajouté qui obéit également à la règle de capacité, le nœud précédemment bloqué ne sera plus bloqué, tandis que le nouveau nœud ajouté est bloqué. La capacité doit toujours être ajoutée par paires pour éviter ce problème. Lorsqu'un nœud est bloqué, une défaillance de cluster appropriée est déclenchée.
 
 
 
+[[storage-efficiency]]
 == Efficacité du stockage
 
 Les clusters de stockage NetApp SolidFire utilisent la déduplication, la compression et le provisionnement fin pour réduire la quantité de stockage physique nécessaire au stockage d'un volume.
@@ -78,6 +82,7 @@ Une LUN ou un volume à provisionnement fin est un volume pour lequel le stockag
 
 
 
+[[storage-cluster-quorum]]
 == Quorum du cluster de stockage
 
 Le logiciel Element crée un cluster de stockage à partir de nœuds sélectionnés, qui tient à jour une base de données répliquée de la configuration du cluster. Un minimum de trois nœuds sont nécessaires pour participer à l'ensemble de groupe afin de maintenir le quorum nécessaire pour la résilience du cluster.

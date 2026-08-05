@@ -20,12 +20,14 @@ Les versions de firmware prises en charge pour les nœuds de stockage H-Series e
 
 
 
+[[h610s]]
 == H610S
 
 *Numéro de modèle (partie familiale):* H610S *numéros de modèle complets:* H610S-1, H610S-1-ne, H610S-2, H610S-2-ne, H610S-4, H610S-2-ne, H610S-2-ne, H610S H610S-4-NE ET H610S-2F
 
 
 
+[[component-firmware-managed-by-a-storage-firmware-bundle]]
 === Microprogramme de composant géré par un ensemble de micrologiciels de stockage
 
 Pendant les délais de la version 11.x, le logiciel NetApp Element était le seul moyen de libérer du firmware. À partir d'Element 12.0, le concept de *Storage Firmware Bundle* a été introduit et les mises à jour du micrologiciel ont été désormais possibles par un ensemble de microprogramme de stockage ou de microprogramme de stockage fourni indépendamment dans une version d'Element 12.x.
@@ -123,6 +125,7 @@ NOTE: Un tiret (*-*) dans le tableau suivant indique que le composant matériel 
 |===
 
 
+[[component-firmware-not-managed-by-a-storage-firmware-bundle]]
 === Micrologiciel de composant non géré par un pack de microprogramme de stockage
 
 Les micrologiciels suivants ne sont pas gérés par un pack de microprogramme de stockage :
@@ -139,12 +142,14 @@ Les micrologiciels suivants ne sont pas gérés par un pack de microprogramme de
 |===
 
 
+[[h410s]]
 == H410S
 
 *Numéro de modèle (partie famille):* H410S *numéros de modèle complets:* H410S-0, H410S-1, H410S-1-ne et H410S-2
 
 
 
+[[component-firmware-managed-by-a-storage-firmware-bundle]]
 === Microprogramme de composant géré par un ensemble de micrologiciels de stockage
 
 Microprogramme de composant géré par un ensemble de micrologiciels de stockage.
@@ -218,6 +223,7 @@ Microprogramme de composant géré par un ensemble de micrologiciels de stockage
 |===
 
 
+[[component-firmware-not-managed-by-a-storage-firmware-bundle]]
 === Micrologiciel de composant non géré par un pack de microprogramme de stockage
 
 Les micrologiciels suivants ne sont pas gérés par un pack de microprogramme de stockage :
@@ -249,12 +255,14 @@ Les micrologiciels suivants ne sont pas gérés par un pack de microprogramme de
 |===
 
 
+[[sfnodessf38410-sf19210-sf9605-and-sf4805]]
 == [[sf_nodes]]SF38410, SF19210, SF9605 et SF4805
 
 *Numéros de modèle complets :* SF38410, SF19210, SF9605 et SF4805
 
 
 
+[[component-firmware-managed-by-a-storage-firmware-bundle]]
 === Microprogramme de composant géré par un ensemble de micrologiciels de stockage
 
 Pendant les délais de la version 11.x, le logiciel NetApp Element était le seul moyen de libérer du firmware. À partir d'Element 12.0, le concept de *Storage Firmware Bundle* a été introduit et les mises à jour du micrologiciel ont été désormais possibles par un ensemble de microprogramme de stockage ou de microprogramme de stockage fourni indépendamment dans une version d'Element 12.x.
@@ -352,6 +360,7 @@ NOTE: Un tiret (*-*) dans le tableau suivant indique que le composant matériel 
 |===
 
 
+[[component-firmware-not-managed-by-a-storage-firmware-bundle]]
 === Micrologiciel de composant non géré par un pack de microprogramme de stockage
 
 Les micrologiciels suivants ne sont pas gérés par un pack de microprogramme de stockage :

@@ -25,6 +25,7 @@ La politique de QoS que vous souhaitez appliquer en bloc doit exister.
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:concept_data_manage_volumes_quality_of_service_policies.adoc[Règles de qualité de service]

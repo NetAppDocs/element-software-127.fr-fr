@@ -15,6 +15,7 @@ Vous pouvez créer un snapshot de groupe d'un ensemble de volumes associé afin 
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:task_data_protection_create_a_group_snapshot.adoc[Créez un snapshot de groupe]

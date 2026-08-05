@@ -22,6 +22,7 @@ NOTE: Lorsque vous ajoutez plusieurs lecteurs, il est plus efficace de les ajout
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode présente les paramètres d'entrée suivants :
@@ -48,6 +49,7 @@ Oui (le type est facultatif)
 |===
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -68,6 +70,7 @@ entier
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -97,6 +100,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -112,12 +116,14 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:reference_element_api_getasyncresult.adoc[GetAsyncResult]

@@ -26,18 +26,21 @@ TIP: Voir link:../media/hseries_isi.pdf["affiche"^]pour une représentation visu
 
 
 
+[[workflow-diagrams]]
 == Diagrammes de flux de travail
 
 Les schémas de flux de travail présentés ici fournissent un aperçu général des étapes d'installation. Les étapes varient légèrement selon le modèle de la série H.
 
 
 
+[[h410s]]
 === H410S
 
 image::../media/h410s_isi_workflow.png[Workflow d'installation H410S]
 
 
 
+[[h610s]]
 === H610S
 
 
@@ -47,6 +50,7 @@ image::../media/h610s_isi_workflow.png[Workflow d'installation H610S]
 
 
 
+[[prepare-for-installation]]
 == Avant l'installation
 
 Avant de procéder à l'installation, inventoriez le matériel qui vous a été expédié et contactez le support NetApp en cas de problème.
@@ -80,6 +84,7 @@ CAUTION: Lors de l'installation du matériel de fixation, assurez-vous de retire
 
 
 
+[[install-the-rails]]
 == Installer les rails
 
 La commande de matériel qui vous a été expédiée comprend un jeu de rails coulissants. Vous aurez besoin d'un tournevis pour terminer l'installation du rail. Les étapes d'installation varient légèrement pour chaque modèle de nœud.
@@ -93,6 +98,7 @@ TIP: Installez le matériel de fixation du bas du rack jusqu'en haut pour évite
 
 
 
+[[h410s]]
 === H410S
 
 Les nœuds H410S sont installés dans un châssis 2U H-Series à quatre nœuds livré avec deux jeux d'adaptateurs. Si vous souhaitez installer le châssis dans un rack à trous ronds, utilisez les adaptateurs appropriés pour un rack à trous ronds. Les rails pour les nœuds H410S s'adaptent à un rack de 29 pouces à 33.5 pouces de profondeur. Lorsque le rail est complètement engagé, sa longueur est de 28 pouces et les sections avant et arrière du rail sont maintenues ensemble par une seule vis.
@@ -115,6 +121,7 @@ image::../media/h410s_rail.gif[Installation sur rail pour 2U]
 
 
 
+[[h610s]]
 === H610S
 
 Voici une illustration de l'installation des rails pour un nœud de stockage H610S :
@@ -126,6 +133,7 @@ TIP: Il y a des rails gauche et droit sur les H610S. Positionnez le trou de vis 
 
 
 
+[[install-and-cable-the-nodes]]
 == Installez et câconnectez les nœuds
 
 Vous installez le nœud de stockage H410S dans un châssis 2U à quatre nœuds. Pour H610S, installez le châssis/nœud directement sur les rails du rack.
@@ -139,6 +147,7 @@ CAUTION: Retirez tous les matériaux d'emballage et d'emballage de l'unité. Cel
 
 
 
+[[h410s]]
 === H410S
 
 .Étapes
@@ -181,6 +190,7 @@ image::../media/hci_poweron_isg.gif[Cette figure présente les boutons d'aliment
 
 
 
+[[h610s]]
 === H610S
 
 .Étapes
@@ -219,6 +229,7 @@ image::../media/h600s_isi_nodefront.png[Cette figure montre l'avant du châssis 
 
 
 
+[[configure-the-nodes]]
 == Configurez les nœuds
 
 Une fois le matériel rack et les câbles requis, vous êtes prêt à configurer votre nouvelle ressource de stockage.
@@ -244,6 +255,7 @@ TIP: Voir https://kb.netapp.com/Advice_and_Troubleshooting/Hybrid_Cloud_Infrastr
 
 
 
+[[create-a-cluster]]
 == Création d'un cluster
 
 Après avoir ajouté le nœud de stockage à votre installation et configuré la nouvelle ressource de stockage, vous êtes prêt à créer un nouveau cluster de stockage
@@ -255,6 +267,7 @@ Après avoir ajouté le nœud de stockage à votre installation et configuré la
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

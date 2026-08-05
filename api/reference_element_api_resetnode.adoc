@@ -15,6 +15,7 @@ Vous pouvez utiliser la `ResetNode` méthode pour rétablir les paramètres d'us
 
 
 
+[[parameters]]
 == Paramètres
 
 L'API ResetNode ne peut être utilisée que sur les nœuds qui sont en état « disponible ». Elle ne peut pas être utilisée sur des nœuds « actifs » dans un cluster ou à l'état « en attente ».
@@ -69,12 +70,14 @@ Non
 |===
 
 
+[[return-values]]
 == Valeurs de retour
 
 Cette méthode n'a pas de valeurs de retour.
 
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -92,6 +95,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -150,6 +154,7 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6

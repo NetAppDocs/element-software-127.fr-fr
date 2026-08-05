@@ -15,6 +15,7 @@ L'objet ProtocolEndpoint contient les attributs d'un noeud final de protocole. V
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -88,6 +89,7 @@ entier
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_listprotocolendpoints.adoc[ListProtocolEndpoints]

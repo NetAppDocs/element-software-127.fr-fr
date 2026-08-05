@@ -20,6 +20,7 @@ Tâches autorisées avec les API REST :
 
 
 
+[[authorization]]
 == Autorisation
 
 * link:task_mnode_api_get_authorizationtouse.html["Obtenez l'autorisation d'utiliser les API REST"]
@@ -27,6 +28,7 @@ Tâches autorisées avec les API REST :
 
 
 
+[[asset-configuration]]
 == Configuration des ressources
 
 * link:task_mnode_enable_activeIQ.html["Surveillance Active IQ et NetApp"]
@@ -38,11 +40,12 @@ Tâches autorisées avec les API REST :
 
 
 
+[[asset-management]]
 == La gestion des actifs
 
 * link:task_mnode_edit_vcenter_assets.html["Afficher ou modifier des actifs de contrôleur existants"]
 * link:task_mnode_manage_storage_cluster_assets.html["Créer et gérer les ressources du cluster de stockage"]
-* link:../hccstorage/task-hcc-collectlogs.html#use-the-rest-api-to-collect-netapp-hci-logs["Utilisez l'API REST pour collecter les journaux du système Element"]
+* link:../hccstorage/task-hcc-collectlogs.html#use-the-rest-api-to-collect-logs["Utilisez l'API REST pour collecter les journaux du système Element"]
 * link:task_mnode_api_find_mgmt_svcs_version.html["Vérifiez les versions du système d'exploitation du nœud de gestion et des services"]
 * link:task_mnode_logs.html["Obtention de journaux des services de gestion"]
 

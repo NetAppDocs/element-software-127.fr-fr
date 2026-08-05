@@ -68,6 +68,7 @@ Certains nœuds offrent des fonctionnalités de gestion hors bande supplémentai
 
 
 
+[[for-more-information]]
 == Pour en savoir plus
 
 * https://docs.netapp.com/us-en/hci/docs/hci_prereqs_network_switch.html["Configuration requise pour le réseau et les commutateurs NetApp HCI"^]

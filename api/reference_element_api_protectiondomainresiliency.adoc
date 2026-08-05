@@ -15,6 +15,7 @@ L'objet protectionDomainRerésilience contient l'état de résilience de ce clus
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

@@ -52,6 +52,7 @@ Vous pouvez également en savoir plus sur les vérifications de l'état du stock
 
 
 
+[[use-netapp-hybrid-cloud-control-to-run-element-storage-health-checks-prior-to-upgrading-storage]]
 == Avec NetApp Hybrid Cloud Control, exécutez des vérifications de l'état du stockage Element avant la mise à niveau du stockage
 
 Avec NetApp Hybrid Cloud Control, vous pouvez vérifier qu'un cluster de stockage est prêt à être mis à niveau.
@@ -81,6 +82,7 @@ Une fois la vérification de l'état de santé terminée sans erreur, le cluster
 
 
 
+[[use-api-to-run-element-storage-health-checks-prior-to-upgrading-storage]]
 == Exécutez des vérifications de l'état du stockage Element avant la mise à niveau du stockage
 
 Vous pouvez utiliser l'API REST pour vérifier qu'un cluster de stockage est prêt à être mis à niveau. Le contrôle de l'état vérifie qu'il n'existe aucun obstacle à la mise à niveau, par exemple les nœuds en attente, les problèmes d'espace disque et les défaillances de cluster.
@@ -212,6 +214,7 @@ Si toutes les vérifications de l'état réussissent, le retour est similaire à
 
 
 
+[[storage-health-checks-made-by-the-service]]
 == Vérifications de l'état du stockage effectuées par le service
 
 Les vérifications de l'état du stockage font les vérifications suivantes par cluster.

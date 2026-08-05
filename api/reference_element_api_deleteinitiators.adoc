@@ -17,6 +17,7 @@ Si `DeleteInitiators` ne parvient pas à supprimer l'un des initiateurs fournis 
 
 
 
+[[parameter]]
 == Paramètre
 
 Cette méthode dispose du paramètre d'entrée suivant :
@@ -39,12 +40,14 @@ Oui
 |===
 
 
+[[return-values]]
 == Valeurs de retour
 
 Cette méthode n'a pas de valeurs de retour.
 
 
 
+[[error]]
 == Erreur
 
 Cette méthode peut renvoyer l'erreur suivante :
@@ -63,6 +66,7 @@ Renvoyé si le nom de l'initiateur choisi n'existe pas.
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -82,6 +86,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -95,6 +100,7 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6

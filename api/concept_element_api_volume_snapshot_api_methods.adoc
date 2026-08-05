@@ -32,6 +32,7 @@ Les méthodes de l'API Snapshot de volume du logiciel Element vous permettent de
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

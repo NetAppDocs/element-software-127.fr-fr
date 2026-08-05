@@ -13,6 +13,7 @@ Après avoir téléchargé l'image ISO RTFI, vous pouvez la déployer selon l'un
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

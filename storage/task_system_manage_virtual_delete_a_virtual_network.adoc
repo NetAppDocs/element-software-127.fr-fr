@@ -21,6 +21,7 @@ Vous pouvez supprimer un objet réseau virtuel. Vous devez ajouter les blocs d'a
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:task_system_manage_virtual_edit_a_virtual_network.adoc[Modifier un réseau virtuel]

@@ -55,6 +55,7 @@ Une fois le couplage terminé, il est recommandé d'actualiser la table volumes 
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:reference_replication_volume_pairing_messages.adoc[Messages de couplage de volume]

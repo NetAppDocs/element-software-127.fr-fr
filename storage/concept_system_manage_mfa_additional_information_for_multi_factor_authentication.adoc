@@ -24,6 +24,7 @@ NOTE: Si le cluster utilise un certificat dont la pré-mise à niveau est infér
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * link:../api/index.html["Gestion du stockage avec l'API Element"]

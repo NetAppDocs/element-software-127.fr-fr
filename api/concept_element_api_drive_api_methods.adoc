@@ -24,6 +24,7 @@ Vous pouvez utiliser des méthodes d'API de disque pour ajouter et gérer des le
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

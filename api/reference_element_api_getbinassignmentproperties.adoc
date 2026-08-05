@@ -15,12 +15,14 @@ Vous pouvez utiliser la `GetBinAssignmentProperties` méthode pour récupérer l
 
 
 
+[[parameter]]
 == Paramètre
 
 Cette méthode ne contient aucun paramètre d'entrée.
 
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -39,6 +41,7 @@ Tableau de propriétés de binassigner
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -54,6 +57,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -138,6 +142,7 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 12,0

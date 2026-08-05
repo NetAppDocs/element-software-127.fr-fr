@@ -67,6 +67,7 @@ La création du cluster peut prendre plusieurs minutes, en fonction du nombre de
 
 
 
+[[for-more-information]]
 == Pour en savoir plus
 
 * link:../api/index.html["Gestion du stockage avec l'API Element"]

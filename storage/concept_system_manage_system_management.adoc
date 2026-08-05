@@ -21,6 +21,7 @@ Vous pouvez gérer votre système dans l'interface utilisateur Element. C'est no
 
 
 
+[[for-more-information]]
 == Pour en savoir plus
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

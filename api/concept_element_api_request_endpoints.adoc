@@ -17,6 +17,7 @@ Les trois terminaux de demande dans l'API sont désignés comme suit :
 
 
 
+[[cluster-api-methods]]
 == Méthodes d'API du cluster
 
 Le point de terminaison HTTPS pour les requêtes d'API à l'échelle du cluster de stockage est `+https://<mvip>/json-rpc/<api-version>+`, où :
@@ -27,6 +28,7 @@ Le point de terminaison HTTPS pour les requêtes d'API à l'échelle du cluster 
 
 
 
+[[cluster-creation-and-bootstrap-api-methods]]
 == Méthodes de création de clusters et d'API d'amorçage
 
 Le point de terminaison HTTPS pour la création d'un cluster de stockage et l'accès aux requêtes d'API bootstrap est `+https://<nodeIP>/json-rpc/<api-version>+`, où :
@@ -37,6 +39,7 @@ Le point de terminaison HTTPS pour la création d'un cluster de stockage et l'ac
 
 
 
+[[per-node-api-methods]]
 == Méthodes API par nœud
 
 Le point de terminaison HTTPS pour les requêtes d'API de nœud de stockage individuel est `+https://<nodeIP>:442/json-rpc/<api-version>+`, où :
@@ -47,6 +50,7 @@ Le point de terminaison HTTPS pour les requêtes d'API de nœud de stockage indi
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

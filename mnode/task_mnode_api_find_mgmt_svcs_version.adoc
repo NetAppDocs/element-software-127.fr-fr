@@ -28,6 +28,7 @@ Vous pouvez vérifier les numéros de version de l'OS du nœud de gestion, les p
 
 
 
+[[api-commands]]
 == Commandes d'API
 
 * Obtenir des informations de version sur le système d'exploitation du nœud de gestion, le bundle de services de gestion et le service de l'API du nœud de gestion (mNode-api) exécuté sur le nœud de gestion :
@@ -50,6 +51,7 @@ NOTE: Vous pouvez trouver le support `${TOKEN}` utilisé par la commande API lor
 
 
 
+[[rest-api-ui-steps]]
 == ÉTAPES DE L'INTERFACE UTILISATEUR DE L'API REST
 
 . Accédez à l'interface utilisateur de l'API REST du service en saisissant l'adresse IP du nœud de gestion suivie de `/mnode/` :

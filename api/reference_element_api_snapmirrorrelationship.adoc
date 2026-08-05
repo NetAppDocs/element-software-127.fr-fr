@@ -15,6 +15,7 @@ L'objet MirrorsnapRelationship contient des informations sur la relation SnapMir
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

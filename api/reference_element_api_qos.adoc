@@ -15,6 +15,7 @@ L'objet QoS contient des informations sur les paramètres de qualité de service
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -69,6 +70,7 @@ entier
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_getdefaultqos.adoc[GetDefaultQoS]

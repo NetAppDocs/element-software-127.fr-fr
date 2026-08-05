@@ -25,6 +25,7 @@ Le volume à modifier doit être associé à une politique de QoS.
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:task_data_manage_volumes_deleting_a_qos_policy.adoc[Suppression d'une règle QoS]

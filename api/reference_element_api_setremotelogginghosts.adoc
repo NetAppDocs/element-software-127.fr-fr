@@ -15,6 +15,7 @@ Vous pouvez utiliser la `SetRemoteLoggingHosts` méthode pour configurer la jour
 
 
 
+[[parameter]]
 == Paramètre
 
 Cette méthode dispose du paramètre d'entrée suivant :
@@ -37,12 +38,14 @@ Oui
 |===
 
 
+[[return-values]]
 == Valeurs de retour
 
 Cette méthode n'a pas de valeurs de retour.
 
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -67,6 +70,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -80,12 +84,14 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_getremotelogginghosts.adoc[GetRemoteLoggingits]

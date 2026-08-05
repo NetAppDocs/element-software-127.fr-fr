@@ -15,12 +15,14 @@ Vous pouvez utiliser la `DisableSsh` méthode pour désactiver le service SSH po
 
 
 
+[[parameter]]
 == Paramètre
 
 Cette méthode n'a pas de paramètre d'entrée.
 
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -39,6 +41,7 @@ booléen
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -54,6 +57,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :

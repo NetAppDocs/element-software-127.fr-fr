@@ -22,6 +22,7 @@ Avec le stockage Element, vous pouvez créer et gérer les types de compte suiva
 
 
 
+[[storage-cluster-administrator-accounts]]
 == Comptes d'administrateur du cluster de stockage
 
 Deux types de comptes d'administrateur peuvent exister dans un cluster de stockage qui exécute le logiciel NetApp Element :
@@ -37,6 +38,7 @@ Vous pouvez link:../storage/concept_system_manage_manage_cluster_administrator_u
 
 
 
+[[user-accounts]]
 == Comptes d'utilisateur
 
 Les comptes utilisateur permettent de contrôler l'accès aux ressources de stockage sur un réseau logiciel NetApp Element. Au moins un compte utilisateur est nécessaire avant la création du volume.
@@ -52,6 +54,7 @@ Voici quelques considérations supplémentaires :
 
 
 
+[[authoritative-cluster-user-accounts]]
 == Comptes d'utilisateur de cluster qui font autorité
 
 Les comptes utilisateurs qui font autorité sur le cluster peuvent s'authentifier sur toutes les ressources de stockage associées à l'instance NetApp de contrôle du cloud hybride de nœuds et de clusters. Ce compte vous permet de gérer des volumes, des comptes, des groupes d'accès et bien plus encore dans tous les clusters.
@@ -70,6 +73,7 @@ Alors que de nombreuses fonctionnalités NetApp de cloud hybride Control fonctio
 
 
 
+[[volume-accounts]]
 == Comptes de volume
 
 Les comptes spécifiques aux volumes sont uniquement spécifiques au cluster de stockage sur lequel ils ont été créés. Ces comptes vous permettent de définir des autorisations sur des volumes spécifiques sur le réseau, mais n'ont aucun effet en dehors de ces volumes.

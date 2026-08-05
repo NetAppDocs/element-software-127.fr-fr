@@ -15,6 +15,7 @@ L'objet tâche contient des informations sur une tâche de volume virtuel en cou
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -133,6 +134,7 @@ UUID
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_listvirtualvolumetasks.adoc[Tâches ListVirtualVolume]

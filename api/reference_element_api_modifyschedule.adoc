@@ -15,6 +15,7 @@ Vous pouvez utiliser `ModifySchedule` pour modifier les intervalles auxquels un 
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode présente les paramètres d'entrée suivants :
@@ -273,6 +274,7 @@ Non
 |===
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -293,6 +295,7 @@ xref:reference_element_api_schedule.adoc[planification]
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 [listing]
@@ -308,6 +311,7 @@ xref:reference_element_api_schedule.adoc[planification]
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 [listing]
@@ -348,6 +352,7 @@ xref:reference_element_api_schedule.adoc[planification]
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6

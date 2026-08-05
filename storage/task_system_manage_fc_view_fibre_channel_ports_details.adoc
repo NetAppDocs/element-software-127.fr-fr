@@ -42,6 +42,7 @@ Afficher les informations relatives aux ports Fibre Channel connectés au cluste
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

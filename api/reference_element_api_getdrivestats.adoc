@@ -15,6 +15,7 @@ Vous pouvez utiliser la `GetDriveStats` méthode pour obtenir des mesures d'acti
 
 
 
+[[parameter]]
 == Paramètre
 
 Cette méthode dispose du paramètre d'entrée suivant :
@@ -37,6 +38,7 @@ Oui
 |===
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -55,6 +57,7 @@ xref:reference_element_api_drivestats.adoc[Statistiques de conduite]
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -71,6 +74,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example-block-drive]]
 == Exemple de réponse (disque en mode bloc)
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant pour un lecteur de bloc :
@@ -103,6 +107,7 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant pour un lecte
 ----
 
 
+[[response-example-volume-metadata-drive]]
 == Exemple de réponse (disque de métadonnées volume)
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant pour un disque de métadonnées de volume :
@@ -136,12 +141,14 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant pour un disqu
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_listdrives.adoc[Lecteurs de listes]

@@ -15,6 +15,7 @@ L'objet initiateur contient des informations sur un initiateur iSCSI ou Fibre Ch
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -114,6 +115,7 @@ tableau entier
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_listinitiators.adoc[Initiateurs]

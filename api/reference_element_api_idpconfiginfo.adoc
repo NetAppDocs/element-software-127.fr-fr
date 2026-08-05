@@ -15,6 +15,7 @@ L'objet idpConfigInfo contient des détails de configuration et d'intégration c
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

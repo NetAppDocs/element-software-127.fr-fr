@@ -15,6 +15,7 @@ Vous pouvez utiliser la `GetNodeHardwareInfo` méthode pour renvoyer toutes les 
 
 
 
+[[parameter]]
 == Paramètre
 
 Cette méthode dispose du paramètre d'entrée suivant :
@@ -37,6 +38,7 @@ Oui
 |===
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -55,6 +57,7 @@ xref:reference_element_api_hardwareinfo.adoc[Info matériel]
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -71,18 +74,21 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 En raison de la longueur de cet exemple de réponse, il est documenté dans un sujet supplémentaire.
 
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_response_example_getnodehardwareinfo_fibre_channel.adoc[GetNodeHardwareInfo (sortie pour nœuds Fibre Channel)]

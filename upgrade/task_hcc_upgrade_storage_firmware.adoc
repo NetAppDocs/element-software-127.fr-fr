@@ -86,6 +86,7 @@ Choisissez l'une des options de mise à niveau du micrologiciel de stockage suiv
 
 
 
+[[use-netapp-hybrid-cloud-control-ui-to-upgrade-storage-firmware]]
 == Utilisez l'interface de contrôle du cloud hybride NetApp pour la mise à niveau du firmware du stockage
 
 Vous pouvez utiliser l'interface utilisateur de NetApp Hybrid Cloud Control pour mettre à niveau le firmware des nœuds de stockage dans votre cluster.
@@ -144,6 +145,7 @@ Vous pouvez télécharger les journaux une fois la mise à niveau terminée.
 
 
 
+[[upgrade-status-changes]]
 === Modifications du statut des mises à niveau
 
 Voici les différents États que la colonne *Upgrade Status* de l'interface utilisateur affiche avant, pendant et après le processus de mise à niveau :
@@ -175,6 +177,7 @@ Voici les différents États que la colonne *Upgrade Status* de l'interface util
 |===
 
 
+[[what-happens-if-an-upgrade-fails-using-netapp-hybrid-cloud-control]]
 == Que se passe-t-il si une mise à niveau échoue avec NetApp Hybrid Cloud Control
 
 En cas de panne d'un disque ou d'un nœud lors de la mise à niveau, l'interface d'Element affiche les défaillances de cluster. Le processus de mise à niveau ne se poursuit pas vers le nœud suivant et attend que les pannes du cluster soient résolu. La barre de progression dans l'interface utilisateur indique que la mise à niveau attend la résolution des pannes du cluster. À ce stade, la sélection de *Pause* dans l'interface utilisateur ne fonctionnera pas, car la mise à niveau attend que le cluster fonctionne correctement. Vous devrez faire appel au support NetApp pour résoudre le problème.
@@ -191,6 +194,7 @@ CAUTION: L'abandon de la mise à niveau du cluster pendant la mise à jour d'un 
 
 
 
+[[use-netapp-hybrid-cloud-control-api-to-upgrade-storage-firmware]]
 == Utilisez l'API de contrôle de cloud hybride NetApp pour mettre à niveau le firmware du stockage
 
 Vous pouvez utiliser des API pour mettre à niveau les nœuds de stockage d'un cluster vers la version la plus récente du logiciel Element. Vous pouvez utiliser l'outil d'automatisation de votre choix pour exécuter les API. Le workflow d'API documenté ici utilise l'interface d'API REST disponible sur le nœud de gestion, par exemple.

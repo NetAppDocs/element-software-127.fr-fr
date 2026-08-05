@@ -15,6 +15,7 @@ Vous pouvez utiliser la `TestNetworkConfig` méthode pour tester que les paramè
 
 
 
+[[parameters]]
 == Paramètres
 
 Lorsque vous configurez un nœud avec la méthode SetNetworkConfig, dans l’interface utilisateur ou dans l’interface utilisateur, la configuration est validée et stockée. Le test de l'API TestNetworkConfig utilise la configuration stockée pour la logique de post-validation. Par exemple, en cas de panne de courant ou de réseau, vous pouvez utiliser cette méthode d'API pour vous assurer que le nœud fonctionne avec la configuration réseau la plus stockée. Ceci permet de vérifier qu'il n'y a aucune erreur dans la configuration et que la configuration actuelle est utilisée.
@@ -25,6 +26,7 @@ Cette méthode n'a pas de paramètres d'entrée.
 
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -43,6 +45,7 @@ Objet JSON
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -57,6 +60,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example-1]]
 == Exemple de réponse 1
 
 Si aucune erreur n'est détectée, aucune réponse n'est renvoyée.
@@ -76,6 +80,7 @@ Si aucune erreur n'est détectée, aucune réponse n'est renvoyée.
 ----
 
 
+[[response-example-2]]
 == Exemple de réponse 2
 
 Exemple de discordance MTU.
@@ -100,6 +105,7 @@ Exemple de discordance MTU.
 ----
 
 
+[[response-example-3]]
 == Exemple de réponse 3
 
 Exemple de route statique manquante.
@@ -124,12 +130,14 @@ Exemple de route statique manquante.
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_setnetworkconfig.adoc[SetNetworkConfig]

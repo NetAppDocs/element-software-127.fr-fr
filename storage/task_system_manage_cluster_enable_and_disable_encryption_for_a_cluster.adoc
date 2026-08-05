@@ -28,6 +28,7 @@ WARNING: Pour les clusters de stockage 100 % Flash SolidFire, le chiffrement log
 
 
 
+[[check-encryption-at-rest-status]]
 == Vérifiez le chiffrement des données au repos
 
 Pour afficher l'état actuel du chiffrement au repos et/ou du chiffrement logiciel au repos sur le cluster, utilisez la link:../api/reference_element_api_getclusterinfo.html["GetClusterInfo"^] méthode. Vous pouvez utiliser link:../api/reference_element_api_getsoftwareencryptionatrestinfo.html["GetSoftwareEncryptionAtRestInfo"^]la méthode pour obtenir des informations que le cluster utilise pour chiffrer les données au repos.
@@ -43,6 +44,7 @@ NOTE: Le tableau de bord de l'interface utilisateur du logiciel Element à l' `h
 
 
 
+[[enable-hardware-based-encryption-at-rest]]
 == Chiffrement matériel des données au repos
 
 
@@ -54,6 +56,7 @@ NOTE: Pour activer le chiffrement au repos à l'aide d'une configuration de gest
 
 
 
+[[enable-software-based-encryption-at-rest]]
 == Chiffrement logiciel des données au repos
 
 
@@ -64,6 +67,7 @@ NOTE: Le chiffrement logiciel au repos ne peut pas être désactivé après son 
 
 
 
+[[disable-hardware-based-encryption-at-rest]]
 == Désactivation du chiffrement matériel des données au repos
 
 . Dans l'interface utilisateur de l'élément, sélectionnez *Cluster* > *Paramètres*.

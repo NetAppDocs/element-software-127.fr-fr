@@ -15,6 +15,7 @@ L'interface utilisateur web du logiciel Element utilise `ListSnapMirrorVolumes` 
 
 
 
+[[parameter]]
 == Paramètre
 
 Cette méthode dispose du paramètre d'entrée suivant :
@@ -81,6 +82,7 @@ Non
 |===
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -101,6 +103,7 @@ xref:reference_element_api_snapmirrorvolume.adoc[SnapMirrorVolume] baie
 |===
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 10,1

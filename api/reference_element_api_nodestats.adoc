@@ -15,6 +15,7 @@ L'objet nodeStats contient des mesures d'activité de haut niveau pour un nœud.
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -186,6 +187,7 @@ entier
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:reference_element_api_getnodestats.adoc[GetNodeStats]

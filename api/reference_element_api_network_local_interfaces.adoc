@@ -15,6 +15,7 @@ L'objet réseau (interfaces locales) contient des informations de configuration 
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -91,6 +92,7 @@ booléen
 |===
 
 
+[[member-modifiability-and-node-states]]
 == Modification du membre et état du nœud
 
 Ce tableau indique si les paramètres de l'objet peuvent être modifiés à chaque état de nœud possible.
@@ -168,6 +170,7 @@ S/O
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:reference_element_api_getconfig.adoc[Getconfig]

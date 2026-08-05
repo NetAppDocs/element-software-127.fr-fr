@@ -15,6 +15,7 @@ L' `remoteClusterSnapshotStatus`objet contient l'UUID et l'état d'un snapshot s
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

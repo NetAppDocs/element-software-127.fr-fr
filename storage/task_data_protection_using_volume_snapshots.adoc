@@ -21,6 +21,7 @@ Il est également possible de répliquer les snapshots sur un cluster distant et
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:task_data_protection_use_individual_volume_snapshots.adoc[Utilisation de snapshots de volumes individuels pour la protection des données]

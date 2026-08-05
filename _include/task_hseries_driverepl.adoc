@@ -18,6 +18,7 @@ Cette procédure est destinée au remplacement des disques dans les nœuds de st
 
 
 
+[[best-practices-for-adding-and-removing-drives]]
 == Pratiques d'excellence pour l'ajout et la suppression de disques
 
 * Ajoutez toutes les unités de bloc et assurez-vous que la synchronisation des blocs est terminée avant d'ajouter les unités de coupe.
@@ -106,6 +107,7 @@ NOTE: Lorsque vous installez un nouveau lecteur dans un nœud existant, le lecte
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

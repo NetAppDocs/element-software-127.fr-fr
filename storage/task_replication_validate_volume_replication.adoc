@@ -19,6 +19,7 @@ Après la réplication d'un volume, assurez-vous que les volumes source et cible
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_replication_volume_pairing_warnings.adoc[Avertissements de couplage de volume]

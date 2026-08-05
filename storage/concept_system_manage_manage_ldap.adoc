@@ -31,6 +31,7 @@ L'activation du protocole LDAP implique les étapes générales suivantes, décr
 
 
 
+[[complete-pre-configuration-steps-for-ldap-support]]
 == Suivez les étapes de pré-configuration pour la prise en charge du protocole LDAP
 
 Avant d'activer la prise en charge LDAP dans Element, vous devez configurer un serveur Windows Active Directory Server et effectuer d'autres tâches de préconfiguration.
@@ -44,6 +45,7 @@ Avant d'activer la prise en charge LDAP dans Element, vous devez configurer un s
 
 
 
+[[enable-ldap-authentication-with-the-element-user-interface]]
 == Activez l'authentification LDAP à l'aide de l'interface utilisateur Element
 
 Vous pouvez configurer l'intégration du système de stockage avec un serveur LDAP existant. Les administrateurs LDAP peuvent ainsi gérer de façon centralisée l'accès au système de stockage pour les utilisateurs.
@@ -94,6 +96,7 @@ Pour tester cette méthode, déconnectez-vous de l'interface utilisateur d'Eleme
 
 
 
+[[enable-ldap-authentication-with-the-element-api]]
 == Activez l'authentification LDAP avec l'API Element
 
 Vous pouvez configurer l'intégration du système de stockage avec un serveur LDAP existant. Les administrateurs LDAP peuvent ainsi gérer de façon centralisée l'accès au système de stockage pour les utilisateurs.
@@ -199,6 +202,8 @@ Pour tester cette méthode, déconnectez-vous de l'interface utilisateur d'Eleme
 
 
 
+[[view-ldap-details]]
+[[view_ldap_details]]
 == Afficher les détails du LDAP
 
 Affichez les informations LDAP sur la page LDAP de l'onglet Cluster.
@@ -237,6 +242,7 @@ NOTE: Vous devez activer LDAP pour afficher ces paramètres de configuration LDA
 
 
 
+[[test-the-ldap-configuration]]
 == Testez la configuration LDAP
 
 Après avoir configuré LDAP, vous devez le tester à l'aide de l'interface utilisateur Element ou de la méthode API Element `TestLdapAuthentication`.
@@ -331,6 +337,7 @@ Le `userSearchBaseDN` n'est pas un emplacement valide dans l'arborescence LDAP.
 
 
 
+[[disable-ldap]]
 == Désactiver LDAP
 
 Vous pouvez désactiver l'intégration LDAP à l'aide de l'interface utilisateur Element.
@@ -345,6 +352,7 @@ Avant de commencer, notez tous les paramètres de configuration, car la désacti
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

@@ -27,6 +27,7 @@ NOTE: La clé de couplage de volume contient une version chiffrée des informati
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:task_replication_pair_volumes_using_a_volume_id.adoc[Couplez des volumes à l'aide d'un ID de volume]

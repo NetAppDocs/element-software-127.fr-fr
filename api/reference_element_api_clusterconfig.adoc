@@ -15,6 +15,7 @@ L' `clusterConfig`objet renvoie les informations que le nœud utilise pour commu
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

@@ -24,12 +24,14 @@ Le logiciel NetApp Element définit différents rôles de nœud pour un cluster.
 
 
 
+[[management-node]]
 == Nœud de gestion
 
 Un nœud de gestion est une machine virtuelle utilisée pour mettre à niveau et fournir des services système, notamment la surveillance et la télémétrie, gérer les ressources et les paramètres du cluster, exécuter des tests et des utilitaires système et activer l'accès au support NetApp pour le dépannage. link:../concepts/concept_intro_management_node.html["En savoir plus >>"]
 
 
 
+[[storage-node]]
 == Nœud de stockage
 
 Un nœud de stockage SolidFire est un serveur qui contient un ensemble de disques qui communiquent entre eux via l'interface réseau Bond10G. Les disques du nœud contiennent des espaces de bloc et de métadonnées pour le stockage et la gestion des données. Chaque nœud contient une image d'usine du logiciel NetApp Element.
@@ -45,6 +47,7 @@ Les caractéristiques des nœuds de stockage sont les suivantes :
 
 
 
+[[fibre-channel-node]]
 == Nœud Fibre Channel
 
 Les nœuds Fibre Channel SolidFire assurent la connectivité avec un commutateur Fibre Channel, que vous pouvez connecter aux clients Fibre Channel. Les nœuds Fibre Channel agissent comme un convertisseur de protocole entre les protocoles Fibre Channel et iSCSI. Cela vous permet d'ajouter une connectivité Fibre Channel à tout cluster SolidFire existant ou nouveau.
@@ -59,6 +62,7 @@ Caractéristiques des nœuds Fibre Channel :
 
 
 
+[[node-states-of-operation]]
 == Etat de fonctionnement du nœud
 
 [role="lead"]

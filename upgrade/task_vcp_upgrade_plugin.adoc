@@ -203,6 +203,7 @@ NOTE: Le plug-in vCenter contient du contenu de l'aide en ligne. Pour vous assur
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

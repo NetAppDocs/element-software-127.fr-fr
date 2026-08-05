@@ -17,6 +17,7 @@ Lorsque vous configurez un planning de snapshots, vous pouvez choisir entre des 
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:task_data_protection_create_a_snapshot_schedule.adoc[Créer un planning de snapshots]

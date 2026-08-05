@@ -43,6 +43,7 @@ Vous pouvez créer un snapshot d'un volume actif pour préserver l'image du volu
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:task_data_protection_schedule_a_snapshot_task.adoc[Planifier un snapshot]

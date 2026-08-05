@@ -33,6 +33,7 @@ Vous pouvez configurer des paramètres tels que le seuil de remplissage du clust
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

@@ -17,6 +17,7 @@ Un compte peut comporter jusqu'à deux milliers de volumes qui lui sont attribu�
 
 
 
+[[chap-algorithms]]
 == Algorithmes CHAP
 
 Depuis Element 12.7, les algorithmes CHAP sécurisés conformes à la norme FIPS SHA1, SHA-256 et SHA3-256 sont pris en charge. Avec l'élément 12.7, lorsqu'un initiateur iSCSI hôte crée une session iSCSI avec une cible iSCSI Element, il demande la liste des algorithmes CHAP à utiliser. La cible iSCSI de l'élément choisit le premier algorithme qu'il prend en charge dans la liste demandée par l'initiateur iSCSI de l'hôte. Pour confirmer que la cible iSCSI de l'élément choisit l'algorithme le plus sécurisé, vous devez configurer l'initiateur iSCSI hôte pour qu'il envoie une liste d'algorithmes ordonnés de MOST Secure, par exemple, SHA3-256, pour le moins sécuriser, par exemple, SHA1 ou MD5. Lorsque les algorithmes SHA ne sont pas demandés par l'initiateur iSCSI hôte, la cible iSCSI de l'élément choisit MD5, en supposant que la liste d'algorithmes proposée par l'hôte contient MD5. Vous devrez peut-être mettre à jour la configuration de l'initiateur iSCSI hôte pour activer la prise en charge des algorithmes sécurisés.
@@ -29,6 +30,7 @@ Si nécessaire, vous pouvez utiliser la https://docs.netapp.com/us-en/element-so
 
 
 
+[[create-an-account]]
 == Créez un compte
 
 Vous pouvez créer un compte pour autoriser l'accès aux volumes.
@@ -53,6 +55,7 @@ NOTE: Laissez les champs d'informations d'identification vides pour générer au
 
 
 
+[[view-account-details]]
 == Afficher les détails du compte
 
 Vous pouvez afficher l'activité de performances des comptes individuels dans un format graphique.
@@ -82,6 +85,7 @@ Voici quelques-uns des détails :
 
 
 
+[[edit-an-account]]
 == Modifier un compte
 
 Vous pouvez modifier un compte pour modifier son statut, modifier les secrets CHAP ou modifier le nom du compte.
@@ -110,6 +114,7 @@ NOTE: Si vous ne modifiez pas les informations d'identification *CHAP Settings*,
 
 
 
+[[delete-an-account]]
 == Supprimer un compte
 
 Vous pouvez supprimer un compte lorsqu'il n'est plus nécessaire.
@@ -127,6 +132,7 @@ IMPORTANT: Les volumes persistants associés à des services de gestion sont att
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

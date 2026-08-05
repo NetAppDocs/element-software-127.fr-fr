@@ -15,6 +15,7 @@ L'objet réseau (interfaces liées) contient des informations de configuration p
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -294,6 +295,7 @@ chaîne
 |===
 
 
+[[member-modifiability-and-node-states]]
 == Modification du membre et état du nœud
 
 Ce tableau indique si les paramètres de l'objet peuvent être modifiés à chaque état de nœud possible.
@@ -602,6 +604,7 @@ Oui
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:reference_element_api_getconfig.adoc[Getconfig]

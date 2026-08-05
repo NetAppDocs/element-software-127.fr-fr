@@ -30,6 +30,7 @@ NetApp Hybrid Cloud Control vous permet de créer et de gérer des règles de qu
 
 
 
+[[create-a-qos-policy]]
 == Création d'une règle de QoS
 
 Vous pouvez créer des règles de QoS et les appliquer aux volumes qui doivent avoir des performances équivalentes.
@@ -57,6 +58,7 @@ Un ID système est généré pour la règle et cette règle s'affiche sur la pag
 
 
 
+[[apply-a-qos-policy-to-a-volume]]
 == Appliquer une policy QoS à un volume
 
 Vous pouvez affecter une politique de QoS existante à un volume à l'aide de NetApp Hybrid Cloud Control.
@@ -83,6 +85,7 @@ NOTE: L'affectation de la QoS remplacera toutes les valeurs QoS individuelles de
 
 
 
+[[change-the-qos-policy-assignment-of-a-volume]]
 == Modifier l'affectation de la politique de QoS d'un volume
 
 Vous pouvez supprimer l'affectation d'une policy de QoS d'un volume ou sélectionner une autre politique de QoS ou une QoS personnalisée.
@@ -111,6 +114,7 @@ NOTE: Lorsque les politiques de QoS sont désactivées, le volume utilise des va
 
 
 
+[[edit-a-qos-policy]]
 == Modifiez une règle QoS
 
 Vous pouvez modifier le nom d'une stratégie de QoS existante ou modifier les valeurs associées à cette règle. La modification des valeurs de performances de la politique de QoS affecte la QoS pour tous les volumes associés à la règle.
@@ -139,6 +143,7 @@ TIP: Vous pouvez sélectionner sur le lien dans la colonne *Active volumes* une 
 
 
 
+[[delete-a-qos-policy]]
 == Suppression d'une règle QoS
 
 Vous pouvez supprimer une règle QoS s'il n'est plus nécessaire. Lorsque vous supprimez une règle de QoS, tous les volumes affectés à la règle gèrent les valeurs de QoS précédemment définies par la règle, mais également la QoS individuelle du volume. Toute association avec la politique de QoS supprimée est supprimée.

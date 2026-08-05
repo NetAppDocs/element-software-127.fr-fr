@@ -15,6 +15,7 @@ Vous pouvez utiliser la `RemoveNodeSSLCertificate` méthode pour supprimer le ce
 
 
 
+[[parameters]]
 == Paramètres
 
 
@@ -28,12 +29,14 @@ Cette méthode n'a pas de paramètres d'entrée.
 
 
 
+[[return-values]]
 == Valeurs de retour
 
 Cette méthode n'a pas de valeurs de retour.
 
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -48,6 +51,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :

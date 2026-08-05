@@ -31,6 +31,7 @@ Cette méthode utilise la clé de couplage créée avec la xref:reference_elemen
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:reference_element_api_startclusterpairing.adoc[Couplage StartClusterPairing]

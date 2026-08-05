@@ -15,6 +15,7 @@ L'objet QoSPolicy contient des informations sur une stratégie de QoS sur un clu
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -60,6 +61,7 @@ tableau entier
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_getqospolicy.adoc[GetQoSPolicy]

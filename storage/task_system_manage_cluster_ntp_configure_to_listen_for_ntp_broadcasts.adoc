@@ -28,6 +28,7 @@ En utilisant le mode de diffusion, vous pouvez demander à chaque nœud d'un clu
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

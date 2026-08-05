@@ -28,6 +28,7 @@ Avec les méthodes de l'API des volumes virtuels du logiciel Element, vous pouve
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

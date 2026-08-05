@@ -15,6 +15,7 @@ L'objet Loggingiserveur contient des informations sur tous les hôtes de consign
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

@@ -19,6 +19,7 @@ Un maximum de quatre conteneurs de stockage par cluster est pris en charge. Un c
 
 
 
+[[create-a-storage-container]]
 == Créer un conteneur de stockage
 
 Vous pouvez créer des conteneurs de stockage dans l'interface utilisateur Element et les découvrir dans vCenter. Vous devez créer au moins un conteneur de stockage pour commencer à provisionner des machines virtuelles sauvegardées par VVol.
@@ -48,6 +49,7 @@ NOTE: Un ID de compte NetApp Element créé automatiquement et attribué au cont
 
 
 
+[[view-storage-container-details]]
 == Afficher les détails du conteneur de stockage
 
 La page conteneurs de stockage de l'onglet VVol permet d'afficher les informations de tous les conteneurs de stockage actifs sur le cluster.
@@ -67,6 +69,7 @@ La page conteneurs de stockage de l'onglet VVol permet d'afficher les informatio
 
 
 
+[[view-individual-storage-container-details]]
 == Affichez les détails de chaque conteneur de stockage
 
 Vous pouvez afficher les informations du conteneur de stockage d'un conteneur de stockage individuel en les sélectionnant dans la page conteneurs de stockage de l'onglet VVol.
@@ -87,6 +90,7 @@ Vous pouvez afficher les informations du conteneur de stockage d'un conteneur de
 
 
 
+[[edit-a-storage-container]]
 == Modifiez un conteneur de stockage
 
 Vous pouvez modifier l'authentification CHAP du conteneur de stockage dans l'interface utilisateur d'Element.
@@ -104,6 +108,7 @@ TIP: Si vous ne modifiez pas les informations d'identification des paramètres C
 
 
 
+[[delete-a-storage-container]]
 == Supprime un conteneur de stockage
 
 Vous pouvez supprimer les conteneurs de stockage de l'interface utilisateur Element.

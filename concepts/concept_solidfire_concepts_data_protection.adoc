@@ -26,6 +26,7 @@ La protection des données du stockage Element repose sur plusieurs concepts :
 
 
 
+[[remote-replication-types]]
 == Types de réplication distante
 
 La réplication à distance des données peut prendre les formes suivantes :
@@ -39,6 +40,7 @@ Pour plus d'informations, consultez  https://www.netapp.com/pdf.html?item=/media
 
 
 
+[[synchronous-and-asynchronous-replication-between-clusters]]
 === Réplication synchrone et asynchrone entre les clusters
 
 Pour les clusters exécutant le logiciel NetApp Element, la réplication en temps réel permet de créer rapidement des copies distantes des données de volume.
@@ -73,6 +75,7 @@ La réplication asynchrone est adaptée aux situations suivantes :
 
 
 
+[[snapshot-only-replication]]
 === Réplication snapshot uniquement
 
 La protection des données snapshot uniquement réplique les données modifiées au point spécifique de temps sur un cluster distant. Seuls les snapshots créés sur le cluster source sont répliqués. Les écritures actives du volume source ne sont pas.
@@ -83,6 +86,7 @@ La réplication Snapshot n'affecte pas la réplication asynchrone ou synchrone.
 
 
 
+[[replication-between-element-and-ontap-clusters-using-snapmirror]]
 === Réplication entre les clusters Element et ONTAP à l'aide de SnapMirror
 
 Avec la technologie NetApp SnapMirror, vous pouvez répliquer les snapshots qui ont été réalisés à l'aide du logiciel NetApp Element sur ONTAP à des fins de reprise après incident. Dans une relation SnapMirror, Element est un terminal et ONTAP l'autre.
@@ -109,6 +113,7 @@ Pour plus d'informations, voir link:../storage/element-replication-index.html["R
 
 
 
+[[volume-snapshots-for-data-protection]]
 == Snapshots de volumes pour la protection des données
 
 Un snapshot de volume est une copie instantanée d'un volume que vous pouvez utiliser par la suite pour restaurer un volume à un moment précis.
@@ -123,6 +128,7 @@ Pour la protection des données, il est possible de créer un snapshot pour un o
 
 
 
+[[volume-clones]]
 == Clones de volumes
 
 Un clone d'un ou plusieurs volumes est une copie instantanée des données. Lorsque vous clonez un volume, le système crée un snapshot du volume, puis crée une copie des données référencées par le snapshot.
@@ -133,6 +139,7 @@ Le cluster prend en charge jusqu'à deux demandes de clones en cours d'exécutio
 
 
 
+[[backup-and-restore-process-overview-for-element-storage]]
 == Présentation des processus de sauvegarde et de restauration pour le stockage Element
 
 Vous pouvez sauvegarder et restaurer des volumes dans d'autres systèmes de stockage SolidFire, ainsi que dans des magasins d'objets secondaires compatibles avec Amazon S3 ou OpenStack Swift.
@@ -148,6 +155,7 @@ Lorsque vous restaurez des volumes à partir d'OpenStack Swift ou d'Amazon S3, v
 
 
 
+[[protection-domains]]
 == Domaines de protection
 
 Un domaine de protection est un nœud ou un ensemble de nœuds regroupés de manière à ce qu'une partie ou l'ensemble des nœuds puissent tomber en panne, tout en maintenant la disponibilité des données. Les domaines de protection permettent à un cluster de stockage de se réparer automatiquement contre la perte d'un châssis (affinité de châssis) ou d'un domaine entier (groupe de châssis).
@@ -171,6 +179,7 @@ Lors de la création d'un nouveau cluster, si vous utilisez des nœuds de stocka
 
 
 
+[[custompdcustom-protection-domains]]
 == [[custom_pd]]domaines de protection personnalisés
 
 Vous pouvez définir une disposition de domaine de protection personnalisée qui correspond à votre disposition spécifique de châssis et de nœud, et où chaque nœud est associé à un seul domaine de protection personnalisé. Par défaut, chaque nœud est affecté au même domaine de protection personnalisé par défaut.
@@ -198,6 +207,7 @@ Vous pouvez utiliser l'interface utilisateur Element pour link:../storage/task_d
 
 
 
+[[double-helix-high-availability]]
 == Double haute disponibilité Helix
 
 La protection des données Helix double est une méthode de réplication qui répartit au moins deux copies redondantes des données sur tous les disques d'un système. L'approche « sans RAID » permet à un système d'absorber plusieurs défaillances simultanées à tous les niveaux du système de stockage et de les réparer rapidement.

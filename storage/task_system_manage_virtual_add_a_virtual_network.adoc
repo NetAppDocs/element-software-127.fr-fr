@@ -48,6 +48,7 @@ Lorsqu'un réseau virtuel est ajouté, une interface pour chaque nœud est cré�
 
 
 
+[[view-virtual-network-details]]
 == Afficher les détails des réseaux virtuels
 
 .Étapes

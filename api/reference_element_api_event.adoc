@@ -15,6 +15,7 @@ L'objet événement contient les détails des événements qui se produisent pen
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -125,6 +126,7 @@ Chaîne de date ISO 8601
 
 
 
+[[event-types]]
 == Types d'événement
 
 La liste suivante décrit les types d'événements que le membre eventInfoType peut contenir :
@@ -163,6 +165,7 @@ La liste suivante décrit les types d'événements que le membre eventInfoType p
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_listevents.adoc[ListEvents]

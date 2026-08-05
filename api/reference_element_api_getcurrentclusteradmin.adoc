@@ -15,12 +15,14 @@ Vous pouvez utiliser la `GetCurrentClusterAdmin` méthode pour renvoyer des info
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode n'a pas de paramètres d'entrée.
 
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -39,6 +41,7 @@ xref:reference_element_api_clusteradmin.adoc[ClusterAdmin]
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -52,6 +55,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -75,6 +79,7 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 10,0

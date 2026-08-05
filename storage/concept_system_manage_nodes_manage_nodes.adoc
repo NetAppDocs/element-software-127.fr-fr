@@ -17,6 +17,7 @@ Si un nouveau nœud ajouté augmente la capacité totale du cluster de plus de 5
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:task_system_manage_nodes_adding_a_node_to_a_cluster.adoc[Ajout d'un nœud à un cluster]

@@ -56,6 +56,7 @@ Vous pouvez déployer une nouvelle OVA et exécuter un script de redéploiement 
 
 
 
+[[download-iso-or-ova-and-deploy-the-vm]]
 == Téléchargez ISO ou OVA et déployez la VM
 
 . Téléchargez la certification OVA ou ISO pour votre installation depuis la https://mysupport.netapp.com/site/products/all/details/element-software/downloads-tab["Logiciel Element"^] page du site de support NetApp.
@@ -97,6 +98,7 @@ NOTE: L'installation d'un nœud de gestion à l'aide de l'image peut entraîner 
 
 
 
+[[configure-the-network]]
 == Configurez le réseau
 
 . À l'aide de l'interface utilisateur du terminal (TUI), créez un utilisateur d'administrateur de nœud de gestion.
@@ -113,6 +115,7 @@ NOTE: Si vous avez besoin d'une carte réseau supplémentaire pour isoler le tra
 
 
 
+[[configure-time-sync]]
 == Configurer la synchronisation de l'heure
 
 . Assurez-vous que le temps est synchronisé entre le nœud de gestion et le cluster de stockage à l'aide de NTP :
@@ -190,6 +193,7 @@ NOTE: Ne modifiez pas le NTP après avoir terminé la configuration de synchroni
 
 
 
+[[configure-the-management-node]]
 == Configurez le nœud de gestion
 
 . Créez un répertoire de destination temporaire pour le contenu du bundle de services de gestion :
@@ -224,6 +228,7 @@ echo '{"trident": true, "mvip": "[mvip IP address]", "account_name": "[persisten
 *** * [Nom du compte de volume persistant]* : nom du compte associé à tous les volumes persistants de ce cluster de stockage.
 
 
+.. [[step_6_recover_mnode_redeploy]]
 
 
 . Configurez et exécutez la commande de redéploiement de nœud de gestion pour vous connecter aux volumes persistants hébergés sur le cluster et démarrez les services avec les données de configuration de nœud de gestion précédentes :

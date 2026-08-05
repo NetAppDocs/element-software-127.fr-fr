@@ -17,6 +17,7 @@ Il existe une limite de 1000 octets sur les objets d'attribut codés.
 
 
 
+[[object-member]]
 == Membre de l'objet
 
 Cet objet contient le membre suivant :
@@ -35,6 +36,7 @@ Objet JSON
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 L'exemple de requête suivant utilise la méthode AddClusterAdmin :

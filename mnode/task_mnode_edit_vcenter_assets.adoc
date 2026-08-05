@@ -23,6 +23,7 @@ Vous pouvez afficher des informations sur les contrôleurs VMware vCenter exista
 
 
 
+[[access-the-management-services-rest-api]]
 == Accédez à l'API REST des services de gestion
 
 .Étapes
@@ -44,6 +45,7 @@ https://<ManagementNodeIP>/vcenter/1/
 
 
 
+[[view-stored-information-about-existing-controllers]]
 == Afficher les informations stockées relatives aux contrôleurs existants
 
 Vous pouvez lister les contrôleurs vCenter existants enregistrés auprès du nœud de gestion et afficher les informations stockées les concernant à l'aide de l'API REST.
@@ -60,6 +62,7 @@ L'API renvoie la liste de tous les contrôleurs vCenter connus, ainsi que l'adre
 
 
 
+[[view-the-status-of-an-existing-controller]]
 == Afficher l'état d'un contrôleur existant
 
 Vous pouvez afficher l'état de tous les contrôleurs vCenter existants enregistrés avec le nœud de gestion. L'API renvoie un état indiquant si NetApp Hybrid Cloud Control peut se connecter au contrôleur vCenter et la raison de ce statut.
@@ -76,6 +79,7 @@ L'API renvoie l'état de ce contrôleur vCenter en particulier, ainsi qu'une rai
 
 
 
+[[edit-the-stored-properties-of-a-controller]]
 == Modifier les propriétés stockées d'un contrôleur
 
 Vous pouvez modifier le nom d'utilisateur ou le mot de passe stockés pour tous les contrôleurs vCenter existants enregistrés avec le nœud de gestion. Vous ne pouvez pas modifier l'adresse IP stockée d'un contrôleur vCenter existant.

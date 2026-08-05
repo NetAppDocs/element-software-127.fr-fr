@@ -15,6 +15,7 @@ L'objet de snapshot contient des informations sur un snapshot créé pour un vol
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -218,6 +219,7 @@ chaîne
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_listsnapshots.adoc[Listsnapshots]

@@ -15,6 +15,7 @@ La mise en réseau virtuelle dans le stockage SolidFire permet la connexion au c
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:task_system_manage_virtual_add_a_virtual_network.adoc[Ajouter un réseau virtuel]

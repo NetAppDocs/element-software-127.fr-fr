@@ -15,6 +15,7 @@ L'objet Networkinterface contient des informations de configuration pour les int
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

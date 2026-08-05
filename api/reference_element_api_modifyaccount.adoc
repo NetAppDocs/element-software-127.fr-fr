@@ -17,6 +17,7 @@ Lorsque vous verrouillez un compte, toutes les connexions existantes de ce compt
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode présente les paramètres d'entrée suivants :
@@ -121,6 +122,7 @@ Non
 |===
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -141,6 +143,7 @@ xref:reference_element_api_account.adoc[compte]
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes de cette méthode sont similaires à l'exemple suivant. Dans cet exemple, les attributs sont effacés en spécifiant {} pour eux :
@@ -159,6 +162,7 @@ Les demandes de cette méthode sont similaires à l'exemple suivant. Dans cet ex
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -183,6 +187,7 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6

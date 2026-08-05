@@ -15,6 +15,7 @@ L'objet cluster contient des informations que le nœud utilise pour communiquer 
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -147,6 +148,7 @@ chaîne
 |===
 
 
+[[member-modifiability-and-node-states]]
 == Modification du membre et état du nœud
 
 Ce tableau indique si les paramètres de l'objet peuvent être modifiés à chaque état de nœud possible.
@@ -290,6 +292,7 @@ Non
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_getclusterconfig.adoc[GetClusterConfig]

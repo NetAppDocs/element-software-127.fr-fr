@@ -27,6 +27,7 @@ Voir link:../concepts/concept_data_manage_volumes_solidfire_quality_of_service.h
 
 
 
+[[create-a-qos-policy]]
 == Création d'une règle de QoS
 
 Vous pouvez créer des règles de QoS et les appliquer lors de la création de volumes.
@@ -40,6 +41,7 @@ Vous pouvez créer des règles de QoS et les appliquer lors de la création de v
 
 
 
+[[edit-a-qos-policy]]
 == Modifiez une règle QoS
 
 Vous pouvez modifier le nom d'une stratégie de QoS existante ou modifier les valeurs associées à cette règle. La modification d'une politique de QoS affecte tous les volumes associés à la règle.
@@ -60,6 +62,7 @@ Vous pouvez modifier le nom d'une stratégie de QoS existante ou modifier les va
 
 
 
+[[delete-a-qos-policy]]
 == Suppression d'une règle QoS
 
 Vous pouvez supprimer une règle QoS s'il n'est plus nécessaire. Lorsque vous supprimez une policy de QoS, tous les volumes associés à la règle gèrent les paramètres de QoS mais ne sont plus associés à une policy.
@@ -75,6 +78,7 @@ NOTE: Si vous tentez de dissocier un volume d'une règle de QoS, vous pouvez mod
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * link:task_data_manage_volumes_remove_a_qos_policy_association_of_a_volume.html["Ne supprime pas l'association de la policy QoS d'un volume"]

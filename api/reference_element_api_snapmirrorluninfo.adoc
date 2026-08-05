@@ -15,6 +15,7 @@ L'objet MirrorsnapvLunInfo contient des informations sur l'objet LUN ONTAP.
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

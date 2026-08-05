@@ -15,6 +15,7 @@ Vous pouvez utiliser `ListActiveVolumes` la méthode pour obtenir la liste des v
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode présente les paramètres d'entrée suivants :
@@ -63,6 +64,7 @@ Non
 |===
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -83,6 +85,7 @@ xref:reference_element_api_volume.adoc[volumétrie] baie
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -100,12 +103,14 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 En raison de la longueur de cet exemple de réponse, il est documenté dans un sujet supplémentaire.
 
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6

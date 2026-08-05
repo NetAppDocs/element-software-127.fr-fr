@@ -24,6 +24,7 @@ Le chiffrement au repos doit être activé sur le cluster et tous les nœuds et 
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * link:../api/index.html["Gérez le stockage avec l'API Element"]

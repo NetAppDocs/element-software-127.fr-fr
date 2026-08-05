@@ -15,6 +15,7 @@ Vous pouvez utiliser la `GetNodeSSLCertificate` méthode pour récupérer le cer
 
 
 
+[[parameters]]
 == Paramètres
 
 
@@ -28,6 +29,7 @@ Cette méthode n'a pas de paramètres d'entrée.
 
 
 
+[[return-values]]
 == Valeurs de retour
 
 Cette méthode a les valeurs de retour suivantes :
@@ -55,6 +57,7 @@ Objet JSON
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -69,6 +72,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :

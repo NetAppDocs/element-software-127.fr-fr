@@ -15,6 +15,7 @@ L'objet FiberChannelPort contient des informations sur les ports individuels d'u
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -136,6 +137,7 @@ chaîne
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_listnodefibrechannelportinfo.adoc[ListNodeChannelPortInfo]

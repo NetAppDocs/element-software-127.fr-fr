@@ -15,6 +15,7 @@ L'objet Mirrorsnapvaulpolitiques contient des informations sur une politique Sna
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

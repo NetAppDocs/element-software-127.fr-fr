@@ -19,6 +19,7 @@ Vous pouvez afficher les sessions Fibre Channel (FC) connectées au cluster. Vou
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_monitor_fibre_channel_session_details.adoc[Détails de la session Fibre Channel]

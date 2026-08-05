@@ -29,6 +29,7 @@ Dans la fenêtre *Authentication required*, entrez le nom d'utilisateur et le mo
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:task_replication_pair_cluster_using_pairing_key.adoc[Couplez des clusters à l'aide d'une clé de couplage]

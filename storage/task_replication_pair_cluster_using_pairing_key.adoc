@@ -39,6 +39,7 @@ IMPORTANT: Ne modifiez aucun des caractères de la clé de couplage. La clé dev
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:task_replication_pair_cluster_using_mvip.adoc[Couplez des clusters à l'aide de MVIP]

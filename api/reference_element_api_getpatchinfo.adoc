@@ -15,6 +15,7 @@ Vous pouvez utiliser la `GetPatchInfo` méthode pour obtenir des informations su
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode présente les paramètres d'entrée suivants :
@@ -33,6 +34,7 @@ Forcer l'exécution de la méthode sur tous les nœuds du cluster de stockage. C
 |===
 
 
+[[return-values]]
 == Valeurs de retour
 
 Cette méthode a les valeurs de retour suivantes :
@@ -45,6 +47,7 @@ Cette méthode a les valeurs de retour suivantes :
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -61,6 +64,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -90,6 +94,7 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 12,3

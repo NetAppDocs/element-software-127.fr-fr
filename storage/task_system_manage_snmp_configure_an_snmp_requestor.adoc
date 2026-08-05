@@ -28,6 +28,7 @@ NOTE: Par défaut, la chaîne de communauté est publique, et le réseau est loc
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:task_system_manage_snmp_configure_snmp_traps.adoc[Configurer les traps SNMP]

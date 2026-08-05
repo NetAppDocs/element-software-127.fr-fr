@@ -17,6 +17,7 @@ Vous pouvez récupérer les informations de synchronisation avec la `ListSyncJob
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -212,6 +213,7 @@ chaîne
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_listsyncjobs.adoc[ListSyncJobs]

@@ -36,6 +36,7 @@ Pour configurer votre nœud une fois le processus RTFI terminé avec succès, re
 
 
 
+[[perform-the-rtfi-process]]
 == Effectuer le processus RTFI
 
 Utilisez la procédure suivante pour restaurer le logiciel Element sur votre nœud SolidFire.
@@ -101,6 +102,7 @@ Si vous avez rencontré un message d'erreur pendant le processus RTFI, reportez-
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

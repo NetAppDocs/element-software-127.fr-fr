@@ -15,6 +15,7 @@ Vous pouvez utiliser `GetClusterCapacity` pour renvoyer des mesures de capacité
 
 
 
+[[efficiency-calculations]]
 == Calculs de l'efficacité
 
 Utilisez les équations suivantes pour calculer le provisionnement fin, la déduplication et la compression. Ces équations s'appliquent à l'élément 8.2 et ultérieur.
@@ -26,6 +27,7 @@ Utilisez les équations suivantes pour calculer le provisionnement fin, la dédu
 
 
 
+[[overall-efficiency-rate-calculation]]
 == Calcul du taux d'efficacité global
 
 Utilisez l'équation suivante pour calculer l'efficacité globale du cluster à l'aide des résultats des calculs relatifs à l'efficacité du provisionnement fin, de la déduplication et de la compression.
@@ -35,12 +37,14 @@ Utilisez l'équation suivante pour calculer l'efficacité globale du cluster à 
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode n'a pas de paramètres d'entrée.
 
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -59,6 +63,7 @@ xref:reference_element_api_clustercapacity.adoc[ClusterCapacity]
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -73,6 +78,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -112,6 +118,7 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6

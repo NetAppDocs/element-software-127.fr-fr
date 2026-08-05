@@ -15,6 +15,7 @@ Chaque nœud contient un ou plusieurs disques physiques utilisés pour stocker u
 
 
 
+[[for-more-information]]
 == Pour en savoir plus
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

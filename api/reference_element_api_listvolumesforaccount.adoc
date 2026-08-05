@@ -15,6 +15,7 @@ Vous pouvez utiliser `ListVolumesForAccount` la méthode pour lister les volumes
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode présente les paramètres d'entrée suivants :
@@ -50,6 +51,7 @@ Oui
 |===
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -70,6 +72,7 @@ xref:reference_element_api_volume.adoc[volumétrie] baie
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -86,6 +89,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Les réponses de cette méthode sont similaires à l'exemple suivant :
@@ -140,6 +144,7 @@ Les réponses de cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6

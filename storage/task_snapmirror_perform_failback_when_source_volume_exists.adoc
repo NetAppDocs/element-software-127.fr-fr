@@ -35,6 +35,7 @@ NOTE: Le volume primaire d'origine peut désormais être monté pour reprendre l
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:concept_snapmirror_failback_scenarios.adoc[Scénarios de restauration SnapMirror]

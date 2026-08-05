@@ -100,6 +100,7 @@ image::psu-install.gif[La illustre l'unité d'alimentation en cours d'installati
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

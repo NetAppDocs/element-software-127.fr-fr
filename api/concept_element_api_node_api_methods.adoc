@@ -68,6 +68,7 @@ Vous pouvez utiliser les méthodes de l'API des nœuds pour configurer des nœud
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

@@ -23,6 +23,7 @@ Vous pouvez modifier et tester les paramètres réseau, cluster et système du n
 
 
 
+[[update-management-node-network-settings]]
 == Mettre à jour les paramètres réseau du nœud de gestion
 
 Dans l'onglet Paramètres réseau de l'interface utilisateur du nœud de gestion par nœud, vous pouvez modifier les champs d'interface réseau du nœud de gestion.
@@ -66,6 +67,7 @@ IMPORTANT: Les options IPv6 ne sont pas prises en charge pour les versions 11.3 
 
 
 
+[[update-management-node-cluster-settings]]
 == Mettez à jour les paramètres du cluster du nœud de gestion
 
 Dans l'onglet Paramètres du cluster de l'interface utilisateur par nœud pour le nœud de gestion, vous pouvez modifier les champs d'interface du cluster lorsqu'un nœud est à l'état disponible, en attente, PendingActive et Active.
@@ -83,6 +85,7 @@ Dans l'onglet Paramètres du cluster de l'interface utilisateur par nœud pour l
 
 
 
+[[test-the-management-node-settings]]
 == Testez les paramètres du nœud de gestion
 
 Après avoir modifié les paramètres de gestion et de réseau du nœud de gestion et validé les modifications, vous pouvez exécuter des tests pour valider les modifications effectuées.

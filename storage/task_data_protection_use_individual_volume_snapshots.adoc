@@ -15,6 +15,7 @@ Un snapshot de volume est une copie instantanée d'un volume. Vous pouvez utilis
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:task_data_protection_create_a_volume_snapshot.adoc[Créer un snapshot de volume]

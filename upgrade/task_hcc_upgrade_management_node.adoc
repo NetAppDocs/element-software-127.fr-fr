@@ -36,6 +36,7 @@ NOTE: Si vous ne mettez pas à jour les services de gestion suivis par le stocka
 
 
 
+[[upgrade-a-management-node-to-version-12-5-or-later-from-version-12-3-x-or-later]]
 == Mettez à niveau un nœud de gestion vers la version 12.5 ou ultérieure à partir de la version 12.3.x ou ultérieure
 
 Vous pouvez effectuer une mise à niveau sans déplacement du nœud de gestion depuis la version 12.3.x ou ultérieure vers la version 12.5 ou ultérieure, sans avoir à provisionner une nouvelle machine virtuelle de nœud de gestion.
@@ -129,6 +130,7 @@ IMPORTANT: Si vous aviez précédemment désactivé la fonctionnalité SSH sur l
 
 
 
+[[reconfigure-authentication-using-the-management-node-rest-api]]
 == Reconfigurez l'authentification à l'aide de l'API REST de nœud de gestion
 
 Vous pouvez conserver votre nœud de gestion existant si vous disposez de services de gestion mis à niveau séquentiellement (1) votre système de stockage Element. Si vous avez suivi un ordre de mise à niveau différent, reportez-vous aux procédures de mise à niveau des nœuds de gestion sur place.

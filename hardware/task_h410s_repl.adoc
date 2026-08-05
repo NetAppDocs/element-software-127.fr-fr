@@ -39,6 +39,7 @@ Voici une présentation générale des étapes à suivre :
 
 
 
+[[prepare-to-replace-the-node]]
 == Préparez-vous à remplacer le nœud
 
 Avant d'installer le nœud de remplacement, vous devez retirer correctement le nœud de stockage défectueux dans l'interface utilisateur du logiciel NetApp Element. Vous pouvez le faire sans interrompre le service. Pour obtenir le numéro de série du nœud de stockage défectueux, utilisez l'interface d'Element et faites-le correspondre au numéro de série indiqué sur l'autocollant à l'arrière du nœud.
@@ -81,6 +82,7 @@ Pour supprimer plusieurs lecteurs
 
 
 
+[[replace-the-node-in-the-chassis]]
 == Remplacez le nœud dans le châssis
 
 Après avoir retiré le nœud défectueux du cluster à l'aide de l'interface utilisateur du logiciel NetApp Element, vous êtes prêt à retirer physiquement le nœud du châssis. Vous devez installer le nœud de remplacement dans le même slot dans le châssis depuis lequel vous avez retiré le nœud défectueux.
@@ -203,6 +205,7 @@ TIP: Assurez-vous que le nœud de remplacement est câblé de la même manière 
 
 
 
+[[add-the-node-to-the-cluster]]
 == Ajoutez le nœud au cluster
 
 Lorsque vous ajoutez un nœud au cluster ou que vous installez de nouveaux disques dans un nœud existant, les disques s'enregistrent automatiquement comme disponibles. Vous devez ajouter des disques au cluster à l'aide de l'interface utilisateur ou de l'API Element avant qu'ils ne puissent participer au cluster.
@@ -238,6 +241,7 @@ Le nœud apparaît dans la liste des nœuds actifs.
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

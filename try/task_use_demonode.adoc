@@ -15,6 +15,7 @@ https://mysupport.netapp.com/site/tools/tool-eula/element-demonode/download["Nœ
 
 
 
+[[supported-functionality]]
 == Fonctionnalités prises en charge :
 
 Le nœud de démonstration d'Element n'est destiné qu'à être utilisé comme outil de démonstration et de développement. Avant d'utiliser le nœud de démonstration, tenez compte des limitations fonctionnelles suivantes :
@@ -40,6 +41,7 @@ NOTE: Toutes les autres limites du logiciel Element s'appliquent. Pour plus de d
 
 
 
+[[vm-requirements]]
 == Configuration requise pour VM
 
 * Capacité totale de 240 Go (la taille et le nombre de disques virtuels de la machine virtuelle ne peuvent pas être modifiés. Tout stockage supplémentaire présenté via l'hyperviseur est ignoré par le système d'exploitation invité.)
@@ -53,6 +55,7 @@ NOTE: Toutes les autres limites du logiciel Element s'appliquent. Pour plus de d
 
 
 
+[[host-requirements]]
 == Configuration requise pour l'hôte
 
 * ESXI 6.0 ou 6.5 pour le nœud de démonstration Element 11.7 VM
@@ -63,12 +66,14 @@ NOTE: Toutes les autres limites du logiciel Element s'appliquent. Pour plus de d
 
 
 
+[[download-element-demo-node]]
 == Téléchargez le nœud de démonstration Element
 
 Le logiciel Element Demo Node est un ensemble de fichiers VMware qui ont été emballés dans un fichier .ova.
 
 
 
+[[install-element-demo-node-on-vmware-esxi]]
 == Installez le nœud de démonstration Element sur VMware ESXi
 
 L'installation d'Element Demo Node sur VMware ESXi implique les tâches suivantes :
@@ -80,12 +85,14 @@ L'installation d'Element Demo Node sur VMware ESXi implique les tâches suivante
 
 
 
+[[configure-network-interfaces]]
 === Configurez les interfaces réseau
 
 Le nœud de démonstration Element requiert deux réseaux de machines virtuelles distincts. L'une concerne le trafic de stockage et l'autre le trafic de gestion. Vous devez configurer le réseau de stockage pour prendre en charge les trames Jumbo.
 
 
 
+[[register-the-demo-node-on-an-esxi-server]]
 === Enregistrez le nœud de démonstration sur un serveur ESXi
 
 Pour enregistrer Element Demo Node sur un serveur ESXi, vous devez déployer le fichier .ova du nœud de démonstration à l'aide de vSphere client.
@@ -111,6 +118,7 @@ NOTE: Le déploiement d'un nœud de démonstration peut prendre quelques minutes
 
 
 
+[[start-the-demo-node-on-an-esxi-server]]
 === Démarrez le nœud de démonstration sur un serveur ESXi
 
 Vous devez démarrer la VM du nœud de démonstration pour accéder à Element via la console VMware ESXi.
@@ -125,12 +133,14 @@ Vous devez démarrer la VM du nœud de démonstration pour accéder à Element v
 
 
 
+[[how-to-get-support]]
 == Comment obtenir de l'aide
 
 Le nœud de démonstration Element est disponible pour les bénévoles de meilleurs efforts. Pour obtenir de l'aide, publiez vos questions sur le https://community.netapp.com/t5/Simulator-Discussions/bd-p/simulator-discussions["Forum des nœuds de démo Element"^].
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://mysupport.netapp.com/site/tools/tool-eula/element-demonode/download["Page de téléchargement du nœud de démonstration Element (connexion requise)"^]

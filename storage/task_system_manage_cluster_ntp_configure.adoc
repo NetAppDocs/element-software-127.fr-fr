@@ -35,6 +35,7 @@ Vous devez disposer des privilèges d'administrateur de cluster pour configurer 
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

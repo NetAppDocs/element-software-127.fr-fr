@@ -27,6 +27,7 @@ NOTE: Le certificat SSL de cluster est automatiquement appliqué à tous les nou
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * link:../mnode/reference_change_mnode_default_ssl_certificate.html["Modifiez le certificat SSL par défaut du nœud de gestion"]

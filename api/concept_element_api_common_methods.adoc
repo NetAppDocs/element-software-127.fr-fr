@@ -24,6 +24,7 @@ Les méthodes courantes sont utilisées pour extraire des informations sur le cl
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

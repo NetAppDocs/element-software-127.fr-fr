@@ -17,6 +17,7 @@ Les connexions au cluster de stockage sont isolées sur la pile réseau via l'ut
 
 
 
+[[prerequisites-for-setting-up-a-multitenant-virtual-network]]
 == Conditions préalables à la configuration d'un réseau virtuel mutualisé
 
 * Vous devez avoir identifié le bloc d'adresses IP du réseau client à attribuer aux réseaux virtuels sur les nœuds de stockage.
@@ -25,6 +26,7 @@ Les connexions au cluster de stockage sont isolées sur la pile réseau via l'ut
 
 
 
+[[virtual-networking-order-of-operations]]
 == Ordre des opérations du réseau virtuel
 
 . Utilisez la méthode AddVirtualNetwork pour approvisionner en bloc les adresses IP que vous entrez.
@@ -42,6 +44,7 @@ Une fois que vous avez ajouté un réseau virtuel, le cluster effectue automatiq
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:concept_element_api_virtual_network_naming_conventions.adoc[Nomenclature établie des réseaux virtuels]

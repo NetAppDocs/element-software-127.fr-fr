@@ -17,6 +17,7 @@ Lorsque vous restaurez des volumes à partir d'OpenStack Swift ou d'Amazon S3, v
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:task_data_protection_back_up_volume_to_amazon_s3.adoc[Sauvegarde d'un volume dans un magasin d'objets Amazon S3]

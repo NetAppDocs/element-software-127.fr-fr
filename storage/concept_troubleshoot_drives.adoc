@@ -32,6 +32,7 @@ IMPORTANT: Les systèmes de stockage SolidFire ne prennent pas en charge la supp
 
 
 
+[[for-more-information]]
 == Pour en savoir plus
 
 * xref:task_troubleshoot_remove_failed_drives.adoc[Retirer les disques défectueux du cluster]

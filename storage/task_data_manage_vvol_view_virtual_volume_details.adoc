@@ -31,6 +31,7 @@ Les informations relatives à tous les volumes virtuels actifs s'affichent.
 
 
 
+[[details]]
 == Détails
 
 La page volumes virtuels de l'onglet VVols fournit des informations sur chaque volume virtuel actif du cluster, telles que l'ID de volume, l'ID de snapshot, l'ID de volume virtuel parent et l'ID de volume virtuel.
@@ -55,6 +56,7 @@ La page volumes virtuels de l'onglet VVols fournit des informations sur chaque v
 
 
 
+[[individual-virtual-volume-details]]
 == Détails des volumes virtuels individuels
 
 La page volumes virtuels de l'onglet VVol fournit les informations suivantes lorsque vous sélectionnez un volume virtuel individuel et consultez ses détails.

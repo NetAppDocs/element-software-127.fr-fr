@@ -15,6 +15,7 @@ L'objet PendingActiveNode contient des informations sur un nœud actuellement à
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -135,6 +136,7 @@ chaîne
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_listpendingactivenodes.adoc[ListeningActiveNodes]

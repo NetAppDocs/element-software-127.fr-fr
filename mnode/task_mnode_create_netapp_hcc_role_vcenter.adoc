@@ -33,12 +33,14 @@ Ce rôle NetApp HCC limite vos vues des services de nœud de gestion aux ressour
 
 
 
+[[create-a-new-netapp-hcc-role]]
 == Créez un nouveau rôle NetApp HCC
 
 Configurez un nouveau compte utilisateur dans vCenter, créez un rôle NetApp HCC, puis attribuez les autorisations utilisateur.
 
 
 
+[[set-up-a-new-user-account-in-vcenter]]
 === Configurez un nouveau compte utilisateur dans vCenter
 
 Procédez comme suit pour configurer un nouveau compte utilisateur dans vCenter.
@@ -54,6 +56,7 @@ Procédez comme suit pour configurer un nouveau compte utilisateur dans vCenter.
 
 
 
+[[create-a-new-netapp-hcc-role-in-vcenter]]
 === Créez un nouveau rôle NetApp HCC dans vCenter
 
 Effectuez les étapes suivantes pour créer un nouveau rôle NetApp HCC dans vCenter.
@@ -69,6 +72,7 @@ Effectuez les étapes suivantes pour créer un nouveau rôle NetApp HCC dans vCe
 
 
 
+[[assign-user-permissions-to-vcenter]]
 === Attribuez des autorisations utilisateur à vCenter
 
 Effectuez les étapes suivantes pour attribuer des autorisations utilisateur au nouveau rôle NetApp HCC dans vCenter.
@@ -111,6 +115,7 @@ image::mnode_new_HCC_role_vcenter.PNG[Illustre la fenêtre Ajouter une autorisat
 
 
 
+[[assign-user-permissions-to-the-datacenter]]
 === Attribuez des autorisations utilisateur au datacenter
 
 Procédez comme suit pour attribuer les autorisations utilisateur au datacenter dans vCenter.
@@ -136,6 +141,7 @@ IMPORTANT: Do *NOT* sélectionnez *Propager to Children*.
 
 
 
+[[assign-user-permissions-to-netapp-hci-datastores]]
 === Attribuez des autorisations utilisateur aux datastores NetApp HCI
 
 Procédez comme suit pour attribuer des autorisations utilisateur aux datastores NetApp HCI dans vCenter.
@@ -161,6 +167,7 @@ Ajoutez les détails suivants dans la fenêtre *Ajouter permission* :
 
 
 
+[[assign-user-permissions-to-a-netapp-host-cluster]]
 === Attribuez des autorisations utilisateur à un cluster hôte NetApp
 
 Procédez comme suit pour attribuer des autorisations utilisateur à un cluster hôte NetApp dans vCenter.
@@ -183,12 +190,14 @@ Ajoutez les détails suivants dans la fenêtre *Ajouter permission* :
 
 
 
+[[netapp-esxi-host-configurations]]
 == Configurations hôte NetApp ESXi
 
 Pour les configurations d'hôtes NetApp ESXi, il est recommandé de mettre à jour le compte utilisateur créé par NDE vers le nouveau rôle HCC NetApp.
 
 
 
+[[netapp-esxi-host-does-not-exist-in-a-vcenter-host-cluster]]
 === L'hôte NetApp ESXi n'existe pas dans un cluster hôte vCenter
 
 Si l'hôte NetApp ESXi n'existe pas dans un cluster hôte vCenter, vous pouvez suivre la procédure suivante pour attribuer le rôle NetApp HCC et les autorisations utilisateur dans vCenter.
@@ -212,6 +221,7 @@ Ajoutez les détails suivants dans la fenêtre *Ajouter permission* :
 
 
 
+[[netapp-esxi-host-exists-in-a-vcenter-host-cluster]]
 === L'hôte NetApp ESXi existe dans un cluster hôte vCenter
 
 Si un hôte NetApp ESXi est présent dans un cluster hôte vCenter avec d'autres hôtes ESXi de fournisseur, vous pouvez suivre la procédure suivante pour attribuer le rôle NetApp HCC et les autorisations utilisateur dans vCenter.
@@ -251,6 +261,7 @@ Ajoutez les détails suivants dans la fenêtre *Ajouter permission* :
 
 
 
+[[controller-asset-already-exists-on-the-management-node]]
 == La ressource de contrôleur existe déjà sur le nœud de gestion
 
 Si un actif de contrôleur existe déjà sur le nœud de gestion, procédez comme suit pour configurer le contrôleur à l'aide de `PUT /assets /{asset_id} /controllers /{controller_id}`.
@@ -271,12 +282,14 @@ Si un actif de contrôleur existe déjà sur le nœud de gestion, procédez comm
 
 
 
+[[add-an-asset-to-the-management-node]]
 == Ajouter une ressource au nœud de gestion
 
 Si vous devez ajouter manuellement un nouveau compte après l'installation, utilisez le nouveau compte utilisateur HCC que vous avez créé dans <<Configurez un nouveau compte utilisateur dans vCenter>>. Pour plus d'informations, voir link:task_mnode_add_assets.html["Ajoutez une ressource de contrôleur au nœud de gestion"].
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/vcp/index.html["Plug-in NetApp Element pour vCenter Server"^]

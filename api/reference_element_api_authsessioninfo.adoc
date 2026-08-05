@@ -15,6 +15,7 @@ L' `authSessionInfo`objet contient des informations sur une session d'authentifi
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

@@ -24,6 +24,7 @@ Vous pouvez créer de nouveaux groupes d'accès aux volumes, modifier le nom, le
 
 
 
+[[add-a-volume-access-group]]
 == Ajouter un groupe d'accès de volume
 
 Vous pouvez ajouter un groupe d'accès de volume à un cluster de stockage à l'aide de NetApp Hybrid Cloud Control.
@@ -45,6 +46,7 @@ Si vous associez un initiateur au groupe d'accès de volume, cet initiateur peut
 
 
 
+[[edit-a-volume-access-group]]
 == Modifier un groupe d'accès de volume
 
 Vous pouvez modifier les propriétés d'un groupe d'accès aux volumes existant à l'aide de NetApp Hybrid Cloud Control. Vous pouvez modifier le nom, les initiateurs associés ou les volumes associés d'un groupe d'accès.
@@ -63,6 +65,7 @@ Vous pouvez modifier les propriétés d'un groupe d'accès aux volumes existant 
 
 
 
+[[delete-a-volume-access-group]]
 == Supprimer un groupe d'accès de volume
 
 Vous pouvez supprimer un groupe d'accès aux volumes à l'aide de NetApp Hybrid Cloud Control et supprimer simultanément les initiateurs associés à ce groupe d'accès du système.

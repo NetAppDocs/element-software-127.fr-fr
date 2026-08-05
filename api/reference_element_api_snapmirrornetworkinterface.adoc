@@ -15,6 +15,7 @@ L'objet Mirrorsnapvaultinterface contient des informations sur les interfaces lo
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

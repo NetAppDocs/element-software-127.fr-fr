@@ -15,12 +15,14 @@ Vous pouvez utiliser la `GetBootstrapConfig` méthode pour obtenir des informati
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode n'a pas de paramètres d'entrée.
 
 
 
+[[return-values]]
 == Valeurs de retour
 
 Cette méthode a les valeurs de retour suivantes :
@@ -94,6 +96,7 @@ chaîne
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -108,6 +111,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -162,12 +166,14 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_createcluster.adoc[CreateCluster]

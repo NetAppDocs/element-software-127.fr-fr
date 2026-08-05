@@ -17,6 +17,7 @@ Le stockage Element vous permet de créer, afficher, modifier, supprimer, cloner
 
 
 
+[[persistent-volumes]]
 == Volumes persistants
 
 Les volumes persistants permettent de stocker les données de configuration du nœud de gestion sur un cluster de stockage spécifié, plutôt que localement avec une VM, de sorte que les données puissent être conservées en cas de perte ou de suppression du nœud de gestion. Les volumes persistants sont une configuration de nœud de gestion facultative, mais recommandée.

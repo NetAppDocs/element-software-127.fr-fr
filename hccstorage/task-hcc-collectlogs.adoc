@@ -30,6 +30,7 @@ Choisissez l'une des options suivantes :
 
 
 
+[[use-netapp-hybrid-cloud-control-to-collect-logs]]
 == Utilisez le contrôle du cloud hybride NetApp pour collecter les journaux
 
 Vous pouvez accéder à la zone de collecte des journaux à partir du tableau de bord NetApp de contrôle du cloud hybride.
@@ -71,6 +72,7 @@ Le package de journaux est au format de fichier UNIX .tgz compressé.
 
 
 
+[[use-the-rest-api-to-collect-logs]]
 == Utilisez l'API REST pour collecter les journaux
 
 Vous pouvez utiliser l'API REST pour collecter les journaux Element.

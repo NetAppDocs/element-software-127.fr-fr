@@ -33,7 +33,7 @@ Découvrez comment configurer le système de stockage pour votre environnement.
 
 
 ** xref:task_setup_determine_which_solidfire_components_to_install.adoc[Déterminez les composants SolidFire à installer]
-** xref:/task_setup_gh_redirect_set_up_a_management_node.adoc[Configurez un nœud de gestion]
+** xref:task_setup_gh_redirect_set_up_a_management_node.adoc[Configurez un nœud de gestion]
 ** xref:concept_setup_whats_next.adoc[Et la suite ?]
 
 
@@ -41,6 +41,7 @@ Découvrez comment configurer le système de stockage pour votre environnement.
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://www.netapp.com/data-storage/solidfire/["Présentation du stockage 100 % Flash de SolidFire"^]

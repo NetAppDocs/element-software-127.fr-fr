@@ -28,6 +28,7 @@ NOTE: À partir de la version 11.0 de l'élément, les nœuds peuvent être conf
 
 
 
+[[configure-a-storage-node-using-the-per-node-ui]]
 == Configurez un nœud de stockage à l'aide de l'interface utilisateur par nœud
 
 Vous pouvez configurer des nœuds à l'aide de l'interface utilisateur par nœud.
@@ -66,6 +67,7 @@ IMPORTANT: Ce nom doit être ajouté à la configuration pour tous les nœuds av
 
 
 
+[[configure-a-storage-node-using-the-tui]]
 == Configurez un nœud de stockage à l'aide de l'interface TUI
 
 Vous pouvez utiliser l'interface utilisateur du terminal (TUI) pour effectuer la configuration initiale des nouveaux nœuds.
@@ -99,6 +101,7 @@ Le nœud est mis en attente et peut être ajouté à un cluster existant ou à u
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

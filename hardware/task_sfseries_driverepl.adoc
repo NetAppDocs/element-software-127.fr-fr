@@ -76,6 +76,7 @@ Voici une présentation générale des étapes à suivre :
 
 
 
+[[remove-the-drive-from-the-cluster]]
 == Retirer le lecteur du cluster
 
 Le système SolidFire met un disque en panne si l'auto-diagnostic du disque indique au nœud qu'il est en panne ou si la communication avec le disque s'arrête pendant cinq minutes et demie au moins. Le système affiche la liste des disques défectueux. Vous devez supprimer un disque défectueux de la liste des disques défectueux dans le logiciel NetApp Element.
@@ -115,6 +116,7 @@ Pour supprimer plusieurs lecteurs
 
 
 
+[[replace-the-drive-from-the-chassis]]
 == Remplacez le lecteur du châssis
 
 Après avoir retiré un disque défectueux de la liste des disques défectueux dans l'interface utilisateur d'Element, vous êtes prêt à remplacer physiquement le disque défectueux du châssis.
@@ -158,6 +160,7 @@ Le support NetApp vous fournira des instructions pour renvoyer le disque défect
 
 
 
+[[add-the-drive-to-the-cluster]]
 == Ajoutez le lecteur au cluster
 
 Après avoir installé un nouveau lecteur dans le châssis, il s'enregistre comme disponible. Vous devez ajouter le disque au cluster à l'aide de l'interface utilisateur d'Element avant qu'il ne puisse participer au cluster.
@@ -193,6 +196,7 @@ Pour ajouter plusieurs disques
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

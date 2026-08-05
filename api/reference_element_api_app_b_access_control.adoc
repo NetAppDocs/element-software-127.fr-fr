@@ -14,7 +14,11 @@ summary: 'Les méthodes de l"API Element disponibles varient en fonction du type
 Les méthodes de l'API Element disponibles varient en fonction du type d'accès défini.
 
 
+NOTE: Certains types d'accès disponibles via l'API ne sont pas disponibles dans l'interface utilisateur d'Element.
 
+
+
+[[accounts]]
 == comptes
 
 Les méthodes suivantes sont disponibles pour le type d'accès aux comptes :
@@ -58,12 +62,14 @@ Supprimer le compte
 |===
 
 
+[[administrator]]
 == administrateur
 
 Toutes les méthodes sont disponibles pour le type d'accès administrateur.
 
 
 
+[[clusteradmin]]
 == ClusterAdmin
 
 Les méthodes suivantes sont disponibles pour le type d'accès admin du cluster :
@@ -461,6 +467,7 @@ GetVirtualNetwork
 |===
 
 
+[[drives]]
 == disques
 
 Les méthodes suivantes sont disponibles pour le type d'accès aux lecteurs :
@@ -489,6 +496,7 @@ SecureEraseDrives
 |===
 
 
+[[nodes]]
 == nœuds
 
 Les méthodes suivantes sont disponibles pour le type d'accès aux nœuds :
@@ -517,6 +525,7 @@ Retirer les noeuds
 |===
 
 
+[[read]]
 == lecture
 
 Les méthodes suivantes sont disponibles pour le type d'accès de lecture :
@@ -660,6 +669,7 @@ BackupTargets
 |===
 
 
+[[reporting]]
 == création de rapports
 
 Les méthodes suivantes sont disponibles pour le type d'accès aux rapports :
@@ -818,12 +828,14 @@ ListVolumeStatsByVolumeAccessGroup
 |===
 
 
+[[repositories]]
 == référentiels
 
 La méthode ListAllNodes est disponible pour le type d'accès aux référentiels.
 
 
 
+[[volumes]]
 == volumes
 
 Les méthodes suivantes sont disponibles pour le type d'accès aux volumes :
@@ -997,6 +1009,7 @@ UpdateBulkVolumeStatus
 |===
 
 
+[[write]]
 == écriture
 
 Les méthodes suivantes sont disponibles pour le type d'accès en écriture :
@@ -1108,3 +1121,5 @@ GetAsyncResult
 Retirer les disques
 
 |===
+.Informations associées
+link:../storage/concept_system_manage_manage_cluster_administrator_users.html#view-cluster-admin-details["Découvrez les types d'accès disponibles dans l'interface utilisateur Element"]

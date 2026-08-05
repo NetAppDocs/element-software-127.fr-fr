@@ -24,6 +24,7 @@ Pour les clusters qui exécutent le logiciel Element version 11.3 ou ultérieure
 
 
 
+[[access-the-management-node-per-node-ui]]
 == Accédez à l'interface utilisateur du nœud de gestion par nœud
 
 À partir de l'interface utilisateur par nœud, vous pouvez accéder aux paramètres du réseau et du cluster et utiliser les tests et utilitaires du système.
@@ -43,6 +44,7 @@ image::mnode_per_node_442_ui.png[Interface utilisateur de nœud de gestion par n
 
 
 
+[[access-the-management-node-rest-api-ui]]
 == Accédez à l'interface de l'API REST du nœud de gestion
 
 Depuis l'interface utilisateur de l'API REST, vous pouvez accéder à un menu d'API liées aux services qui contrôlent les services de gestion sur le nœud de gestion.

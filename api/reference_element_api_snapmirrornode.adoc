@@ -15,6 +15,7 @@ L'objet MirrorsnapvNode contient des informations sur les nœuds du cluster ONTA
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

@@ -31,6 +31,7 @@ Les WWPN sont enregistrés dans le système lorsque vous créez un nouveau clust
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:task_setup_fc_add_fibre_channel_nodes_to_a_cluster.adoc[Ajout de nœuds Fibre Channel à un cluster]

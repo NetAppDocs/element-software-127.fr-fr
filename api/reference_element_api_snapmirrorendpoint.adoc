@@ -15,6 +15,7 @@ L'objet MirrorsnapvaultEndpoint contient des informations sur les systèmes de s
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

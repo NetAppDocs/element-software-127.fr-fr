@@ -24,6 +24,7 @@ NOTE: Si vous tentez de dissocier un volume d'une règle de QoS, vous pouvez mod
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:task_data_manage_volumes_remove_a_qos_policy_association_of_a_volume.adoc[Ne supprime pas l'association de la policy QoS d'un volume]

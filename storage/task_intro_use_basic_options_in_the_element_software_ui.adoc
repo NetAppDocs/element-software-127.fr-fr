@@ -22,6 +22,7 @@ Il permet notamment d'afficher les commandes API activées par l'activité de l'
 
 
 
+[[for-more-information]]
 == Pour en savoir plus
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

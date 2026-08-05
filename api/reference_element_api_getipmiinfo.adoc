@@ -15,12 +15,14 @@ Vous pouvez utiliser cette `GetIpmiInfo` méthode pour afficher un rapport déta
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode n'a pas de paramètres d'entrée.
 
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -39,6 +41,7 @@ Baie d'objets JSON
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -53,6 +56,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 En raison de la longueur de la réponse renvoyée pour cette méthode API, des parties de la réponse ont été volontairement supprimées de ce document. Ce qui est inclus comprend les parties des informations matérielles que le système surveille afin de s'assurer que le nœud fonctionne à des performances optimales.
@@ -187,6 +191,7 @@ En raison de la longueur de la réponse renvoyée pour cette méthode API, des p
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6

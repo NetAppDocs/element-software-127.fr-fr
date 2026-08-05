@@ -29,6 +29,7 @@ Un seul des volumes couplés peut être identifié comme un volume cible de rép
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:reference_element_api_startvolumepairing.adoc[StartVolumePairing]

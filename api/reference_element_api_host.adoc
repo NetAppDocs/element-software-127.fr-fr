@@ -15,6 +15,7 @@ L'objet hôte contient des informations sur un hôte de volume virtuel. Vous pou
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -78,6 +79,7 @@ Matrice UUID
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_listvirtualvolumehosts.adoc[ListVirtualVolumeHots]

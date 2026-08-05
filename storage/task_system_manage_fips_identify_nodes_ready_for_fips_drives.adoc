@@ -40,6 +40,7 @@ Voir les détails sur `GetFipsReport` ou `ListDriveHardware` dans le link:../api
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

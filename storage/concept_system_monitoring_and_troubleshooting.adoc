@@ -29,6 +29,7 @@ Vous devez surveiller le système à des fins de diagnostic et obtenir des infor
 
 
 
+[[for-more-information]]
 == Pour en savoir plus
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

@@ -15,6 +15,7 @@ Le système SolidFire provisionne le stockage à l'aide de volumes. Les volumes 
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * link:concept_data_manage_volumes_quality_of_service_policies.html["Gestion des règles de qualité de service"]

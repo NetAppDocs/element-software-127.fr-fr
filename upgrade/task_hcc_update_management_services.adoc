@@ -52,6 +52,7 @@ Vous pouvez mettre à jour les services de gestion via l'interface utilisateur N
 
 
 
+[[update-management-services-using-hybrid-cloud-control]]
 == Mise à jour des services de gestion via le contrôle dans le cloud hybride
 
 Vous pouvez mettre à jour les services de gestion NetApp à l'aide de NetApp Hybrid Cloud Control.
@@ -96,6 +97,7 @@ Une fois la mise à niveau lancée, vous pouvez voir l'état de la mise à nivea
 
 
 
+[[update-management-services-using-the-management-node-api]]
 == Mettre à jour les services de gestion à l'aide de l'API de nœud de gestion
 
 Les utilisateurs doivent dans le meilleur des cas effectuer les mises à jour des services de gestion à partir de NetApp Hybrid Cloud Control. Vous pouvez cependant télécharger, extraire et déployer manuellement une mise à jour de bundle de services pour les services de gestion vers le nœud de gestion à l'aide de l'API REST. Vous pouvez exécuter chaque commande à partir de l'interface d'API REST pour le nœud de gestion.

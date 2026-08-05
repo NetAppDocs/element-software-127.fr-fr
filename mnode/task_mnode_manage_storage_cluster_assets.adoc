@@ -32,6 +32,7 @@ Choisissez l'une des options suivantes :
 
 
 
+[[retrieve-the-installation-id-and-cluster-id-of-a-storage-cluster-asset]]
 == Récupérer l'ID d'installation et l'ID de cluster d'une ressource de cluster de stockage
 
 Vous pouvez obtenir l'ID d'installation et l'ID du cluster de stockage via l'API REST. L'ID d'installation est nécessaire pour ajouter une nouvelle ressource de cluster de stockage et l'ID de cluster pour modifier ou supprimer une ressource de cluster de stockage spécifique.
@@ -98,6 +99,7 @@ L'API renvoie la liste de tous les clusters de stockage connus dans cette instal
 
 
 
+[[add-a-new-storage-cluster-asset]]
 == Ajoutez un nouveau actif de cluster de stockage
 
 Vous pouvez utiliser l'API REST pour ajouter une ou plusieurs nouvelles ressources du cluster de stockage à l'inventaire des nœuds de gestion. Lorsque vous ajoutez un nouveau actif de cluster de stockage, il est automatiquement enregistré auprès du nœud de gestion.
@@ -163,6 +165,7 @@ L'API renvoie un objet contenant des informations sur l'actif de cluster de stoc
 
 
 
+[[edit-the-stored-credentials-for-a-storage-cluster-asset]]
 == Modifiez les informations d'identification enregistrées pour une ressource de cluster de stockage
 
 Vous pouvez modifier les informations d'identification stockées utilisées par le nœud de gestion pour vous connecter à un cluster de stockage. L'utilisateur que vous choisissez doit disposer d'un accès admin du cluster.
@@ -212,6 +215,7 @@ https://<ManagementNodeIP>/storage/1/
 
 
 
+[[delete-a-storage-cluster-asset]]
 == Supprimer une ressource de cluster de stockage
 
 Vous pouvez supprimer une ressource du cluster de stockage si le cluster de stockage n'est plus en service. Lorsque vous supprimez un actif de cluster de stockage, il n'est pas enregistré automatiquement du nœud de gestion.

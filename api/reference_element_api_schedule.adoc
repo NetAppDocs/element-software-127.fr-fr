@@ -15,6 +15,7 @@ L'objet de planification contient des informations sur un planning créé pour c
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -228,6 +229,7 @@ baie
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_listschedules.adoc[Listes de diffusion]

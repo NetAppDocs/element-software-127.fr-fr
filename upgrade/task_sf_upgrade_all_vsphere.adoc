@@ -36,6 +36,7 @@ Avec le plug-in Element pour vCenter Server 4.x, si vous effectuez une mise à n
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

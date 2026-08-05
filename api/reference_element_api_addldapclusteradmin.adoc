@@ -15,6 +15,7 @@ Vous pouvez utiliser `AddLdapClusterAdmin` pour ajouter un nouvel utilisateur ad
 
 
 
+[[parameters]]
 == Paramètres
 
 Vous pouvez également utiliser cette méthode pour ajouter un groupe LDAP défini dans Active Directory®. Le niveau d'accès attribué au groupe est transmis aux utilisateurs individuels du groupe LDAP.
@@ -78,12 +79,14 @@ Oui
 |===
 
 
+[[return-values]]
 == Valeurs de retour
 
 Cette méthode n'a pas de valeurs de retour.
 
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -101,6 +104,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -114,12 +118,14 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_app_b_access_control.adoc[Contrôle d'accès]

@@ -15,6 +15,7 @@ L'interface utilisateur web d'Element utilise la `BreakSnapMirrorRelationship` m
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode présente les paramètres d'entrée suivants :
@@ -50,6 +51,7 @@ Oui
 |===
 
 
+[[return-values]]
 == Valeurs de retour
 
 Cette méthode a les valeurs de retour suivantes :
@@ -70,12 +72,14 @@ xref:reference_element_api_snapmirrorrelationship.adoc[SnapMirrorRelationship]
 |===
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 10,1
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_breaksnapmirrorvolume.adoc[SnapMirror ®]

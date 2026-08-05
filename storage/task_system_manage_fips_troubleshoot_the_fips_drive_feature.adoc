@@ -25,6 +25,7 @@ L'interface utilisateur de NetApp Element permet d'afficher les alertes concerna
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:reference_monitor_cluster_fault_codes.adoc[Codes d'anomalie du bloc d'instruments]

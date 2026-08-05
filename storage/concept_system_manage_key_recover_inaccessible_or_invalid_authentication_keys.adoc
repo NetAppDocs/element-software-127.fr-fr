@@ -15,6 +15,7 @@ Parfois, une erreur peut se produire et nécessiter l'intervention de l'utilisat
 
 
 
+[[the-cluster-is-unable-to-unlock-the-drives-due-to-a-kmipserverfault-cluster-fault]]
 == Le cluster ne parvient pas à déverrouiller les lecteurs en raison d'une défaillance du cluster KmipServerFault.
 
 Cela peut se produire lorsque le cluster démarre et que le serveur de clés est inaccessible ou que la clé requise n'est pas disponible.
@@ -24,6 +25,7 @@ Cela peut se produire lorsque le cluster démarre et que le serveur de clés est
 
 
 
+[[a-sliceserviceunhealthy-fault-might-be-set-because-the-metadata-drives-have-been-marked-as-failed-and-placed-into-the-available-state]]
 == Il est possible de définir une défaillance sliceServiceIsain, car les lecteurs de métadonnées ont été marqués comme défectueux et placés dans l'état « disponible ».
 
 Étapes à supprimer :

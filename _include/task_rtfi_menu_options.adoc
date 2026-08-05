@@ -27,6 +27,7 @@ NOTE: Contactez le support NetApp avant d'utiliser l'une des options de commande
 |===
 
 
+[[upload-logs]]
 == Chargez les journaux
 
 Collectez tous les journaux du système et téléchargez-les vers une URL spécifiée en suivant la procédure ci-dessous.
@@ -50,6 +51,7 @@ Le fichier journal est téléchargé et enregistré dans le répertoire spécifi
 
 
 
+[[use-the-support-tunnel]]
 == Utiliser le tunnel de support
 
 Si vous avez besoin d'un support technique pour votre système NetApp HCI ou votre système de stockage 100 % Flash SolidFire, le support NetApp peut se connecter à distance à votre système. Pour démarrer une session et obtenir un accès à distance, le support NetApp peut ouvrir une connexion SSH (reverse Secure Shell) à votre environnement.
@@ -91,6 +93,7 @@ NOTE: Si vous ne désactivez pas SSH, l'option SSH reste activée sur le nœud d
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

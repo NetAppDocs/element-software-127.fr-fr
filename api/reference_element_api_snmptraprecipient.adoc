@@ -15,6 +15,7 @@ L'objet snmpTrapRecent contient des informations sur un hôte configuré pour re
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

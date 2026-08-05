@@ -99,6 +99,7 @@ Une fois que le système a résolu une alerte, toutes les informations concernan
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:reference_monitor_cluster_fault_codes.adoc[Codes d'anomalie du bloc d'instruments]

@@ -27,6 +27,7 @@ NOTE: Lorsque vous lancez une nouvelle session NetApp Hybrid Cloud Control pour 
 
 
 
+[[access-the-netapp-hcc-dashboard]]
 == Accédez au tableau de bord NetApp HCC
 
 . Ouvrez l'adresse IP du nœud de gestion dans un navigateur Web. Par exemple :
@@ -43,6 +44,7 @@ image::hcc_dashboard_all.PNG[Tableau de bord HCC]
 
 
 
+[[monitor-storage-resources]]
 == Surveillance des ressources de stockage
 
 Utilisez le volet *Storage* pour afficher votre environnement de stockage total. Vous pouvez surveiller le nombre de clusters de stockage, de nœuds de stockage et de volumes totaux.
@@ -59,6 +61,7 @@ TIP: Pour afficher les données les plus récentes du cluster de stockage, consu
 
 
 
+[[monitor-storage-capacity]]
 == Surveiller la capacité de stockage
 
 La surveillance de la capacité de stockage de votre environnement est primordiale. Le volet capacité de stockage vous permet de déterminer les gains en termes d'efficacité de votre capacité de stockage avec ou sans les fonctions de compression, de déduplication et de provisionnement fin activées.
@@ -97,6 +100,7 @@ NOTE: L'efficacité totale est égale (facteur d'efficacité maxUseeSpace *) / 2
 
 
 
+[[monitor-storage-performance]]
 == Contrôle des performances du stockage
 
 Vous pouvez examiner le niveau d'IOPS ou de débit que vous pouvez obtenir d'un cluster sans dépasser les performances utiles de cette ressource à l'aide du volet Performance du stockage. La performance du stockage correspond au point d'utilisation maximale avant que la latence ne devienne un problème.

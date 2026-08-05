@@ -12,6 +12,7 @@ TIP: Les termes « nœud » et « châssis » sont utilisés de manière interch
 
 
 
+[[best-practices-for-adding-and-removing-drives]]
 == Pratiques d'excellence pour l'ajout et la suppression de disques
 
 Pour ajouter des disques au cluster, il est recommandé de suivre les meilleures pratiques suivantes :
@@ -70,6 +71,7 @@ NOTE: Consultez la documentation du fournisseur de votre commutateur si votre co
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

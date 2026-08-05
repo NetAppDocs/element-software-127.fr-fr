@@ -15,6 +15,7 @@ L'interface utilisateur web du logiciel Element utilise `ListSnapMirrorRelations
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode présente les paramètres d'entrée suivants :
@@ -89,6 +90,7 @@ Non
 |===
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -109,6 +111,7 @@ xref:reference_element_api_snapmirrorrelationship.adoc[SnapMirrorRelationship] b
 |===
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 10,1

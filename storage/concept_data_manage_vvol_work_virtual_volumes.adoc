@@ -27,6 +27,7 @@ NOTE: La prise en charge de VASA pour plusieurs vCenters est disponible en tant 
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:task_data_manage_vvol_enable_virtual_volumes.adoc[Activer les volumes virtuels]

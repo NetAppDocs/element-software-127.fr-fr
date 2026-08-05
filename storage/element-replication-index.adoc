@@ -26,6 +26,7 @@ Si vous avez besoin d'informations de configuration SnapMirror ou conceptuelles 
 
 
 
+[[about-replication-between-element-and-ontap]]
 == À propos de la réplication entre Element et ONTAP
 
 Depuis la version ONTAP 9.3, vous pouvez utiliser SnapMirror pour répliquer les copies Snapshot d'un volume Element vers une destination ONTAP. En cas d'incident au niveau du système Element, vous pouvez délivrer les données aux clients via le système ONTAP, puis réactiver le volume source Element une fois que le service est restauré.
@@ -34,6 +35,7 @@ Depuis la version ONTAP 9.4, vous pouvez répliquer les copies Snapshot d'une LU
 
 
 
+[[types-of-data-protection-relationship]]
 === Types de relation de protection des données
 
 SnapMirror propose deux types de relation de protection des données. Pour chaque type, SnapMirror crée une copie Snapshot du volume source Element avant d'initialiser ou de mettre à jour la relation :
@@ -44,6 +46,7 @@ SnapMirror propose deux types de relation de protection des données. Pour chaqu
 
 
 
+[[default-policies]]
 === Règles par défaut
 
 La première fois que vous appelez SnapMirror, il effectue un _transfert de base_ du volume source vers le volume de destination. La _SnapMirror policy_ définit le contenu de la base et ses mises à jour.
@@ -92,12 +95,14 @@ Pour obtenir des informations de base complètes sur les politiques SnapMirror, 
 ====
 
 
+[[understanding-snapmirror-labels]]
 === Présentation des étiquettes SnapMirror
 
 Chaque règle de type « miroir-vault » doit avoir une règle qui spécifie les copies Snapshot à répliquer. La règle « quotidienne », par exemple, indique que seules les copies snapshot attribuées au label SnapMirror « quotidienne » doivent être répliquées. Attribuez une étiquette SnapMirror lorsque vous configurez les copies Snapshot Element.
 
 
 
+[[replication-from-an-element-source-cluster-to-an-ontap-destination-cluster]]
 === La réplication s'effectue depuis un cluster source Element vers un cluster cible ONTAP
 
 Vous pouvez utiliser SnapMirror pour répliquer les copies Snapshot d'un volume Element vers un système de destination ONTAP. En cas d'incident au niveau du système Element, vous pouvez délivrer les données aux clients via le système ONTAP, puis réactiver le volume source Element une fois que le service est restauré.
@@ -112,6 +117,7 @@ Les règles de réplication sont les suivantes :
 
 
 
+[[replication-from-an-ontap-source-cluster-to-an-element-destination-cluster]]
 === Effectuer une réplication depuis un cluster source ONTAP vers un cluster cible Element
 
 Depuis la version ONTAP 9.4, vous pouvez répliquer les copies Snapshot d'une LUN créée sur un système ONTAP vers un volume Element :
@@ -133,6 +139,7 @@ Les règles de type "iroir-vault" ne sont pas prises en charge.
 
 
 
+[[prerequisites]]
 === Prérequis
 
 Vous devez avoir effectué les tâches suivantes avant de configurer une relation de protection des données entre Element et ONTAP :
@@ -154,6 +161,7 @@ Vous ne pouvez effectuer cette tâche que dans link:concept_snapmirror_labels.ht
 
 
 
+[[support-details]]
 === Détails du support
 
 Le tableau suivant présente les informations de support pour la sauvegarde Element vers ONTAP.

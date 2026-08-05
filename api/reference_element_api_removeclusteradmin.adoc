@@ -15,6 +15,7 @@ Vous pouvez utiliser cette `RemoveClusterAdmin` méthode pour supprimer un admin
 
 
 
+[[parameter]]
 == Paramètre
 
 Lorsqu'un administrateur de cluster IDP est supprimé et que des sessions authentifiées sont associées à un IDP tiers Identity Provider, ces sessions se déconnectent ou subissent éventuellement une perte de droits d'accès au sein de leur session actuelle. La perte des droits d'accès dépendra du fait que l'administrateur de cluster IDP supprimé correspond à l'un des administrateurs de cluster IDP multiples des attributs SAML d'un utilisateur donné. Le reste des administrateurs de clusters IDP correspondants entraîne une réduction des droits d'accès globaux. Les autres types d'utilisateurs administrateur de cluster sont déconnectés lorsqu'ils sont supprimés de leurs administrateurs de cluster.
@@ -39,12 +40,14 @@ Oui
 |===
 
 
+[[return-values]]
 == Valeurs de retour
 
 Cette méthode n'a pas de valeurs de retour.
 
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -61,6 +64,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -74,6 +78,7 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6

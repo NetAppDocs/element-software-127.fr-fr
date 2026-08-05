@@ -20,6 +20,7 @@ Vous pouvez afficher les détails d'un groupe d'accès individuel, comme les vol
 
 
 
+[[volume-access-group-details]]
 == Détails du groupe d'accès de volume
 
 La page Access Groups de l'onglet Management fournit des informations sur les groupes d'accès de volume.

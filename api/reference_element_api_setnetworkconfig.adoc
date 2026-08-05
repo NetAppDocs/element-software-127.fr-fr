@@ -15,6 +15,7 @@ Vous pouvez utiliser la `SetNetworkConfig` méthode pour définir la configurati
 
 
 
+[[parameter]]
 == Paramètre
 
 AVERTISSEMENT :
@@ -41,6 +42,7 @@ Non
 |===
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode a la valeur de retour suivante :
@@ -59,6 +61,7 @@ xref:reference_element_api_network_all_interfaces.adoc[réseau (toutes les inter
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -87,18 +90,21 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 La réponse de cette méthode est la même que celle de la méthode GetNetworkConfig. La méthode affiche tous les membres pour chaque objet et inclut les nouvelles valeurs pour tous les membres modifiés.
 
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * xref:reference_element_api_getnetworkconfig.adoc[GetNetworkConfig]

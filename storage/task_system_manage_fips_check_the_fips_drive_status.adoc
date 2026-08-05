@@ -29,6 +29,7 @@ Vous pouvez vérifier si la fonctionnalité de disques FIPS est activée sur le 
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * link:../api/index.html["Gérez le stockage avec l'API Element"]

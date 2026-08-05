@@ -35,6 +35,7 @@ Pour plus d'informations sur chaque méthode, reportez-vous à link:../api/index
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * link:../api/index.html["Gestion du stockage avec l'API Element"]

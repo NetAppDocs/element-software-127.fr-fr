@@ -48,6 +48,7 @@ WARNING: Sauf avis du support NetApp, toute modification de ce système n'est pa
 
 
 
+[[troubleshoot-a-cluster-node]]
 == Dépanner un nœud de cluster
 
 Vous pouvez effectuer un dépannage de base à l'aide du compte système sfreadonly :
@@ -116,6 +117,7 @@ NOTE: Si vous ne désactivez pas SSH, l'option SSH reste activée sur le nœud d
 
 
 
+[[troubleshoot-a-cluster-node-with-netapp-support]]
 == Dépanner un nœud de cluster avec le support NetApp
 
 Le support NetApp peut effectuer un dépannage avancé après un compte système qui permet au technicien d'exécuter des diagnostics plus approfondis des éléments.
@@ -213,6 +215,7 @@ NOTE: Si vous ne désactivez pas SSH, l'option SSH reste activée sur le nœud d
 
 
 
+[[troubleshoot-a-node-that-is-not-part-of-cluster]]
 == Dépannez un nœud qui ne fait pas partie du cluster
 
 Vous pouvez effectuer le dépannage de base d'un nœud qui n'a pas encore été ajouté à un cluster. Vous pouvez utiliser le compte système sfreadonly pour utiliser ce compte avec ou sans l'aide du support NetApp. Si un nœud de gestion est configuré, vous pouvez l'utiliser pour SSH et exécuter le script fourni pour cette tâche.

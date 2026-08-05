@@ -15,6 +15,7 @@ L'objet MirrorsnapvaultScheduleCronInfo contient des informations sur la planifi
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

@@ -15,6 +15,7 @@ Vous pouvez utiliser `RekeySoftwareEncryptionAtRestMasterKey` la méthode pour r
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode dispose des paramètres d'entrée suivants. Si le `keyManagementType` paramètre n'est pas spécifié, l'opération de renouvellement de clé est effectuée à l'aide de la configuration existante de gestion des clés. Si le `keyManagementType` est spécifié et que le fournisseur de clé est externe, le `keyProviderID` paramètre doit également être utilisé.
@@ -33,6 +34,7 @@ Cette méthode dispose des paramètres d'entrée suivants. Si le `keyManagementT
 |===
 
 
+[[return-values]]
 == Valeurs de retour
 
 Cette méthode a les valeurs de retour suivantes :
@@ -46,6 +48,7 @@ Cette méthode a les valeurs de retour suivantes :
 |===
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -62,6 +65,7 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -74,6 +78,7 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 12,3

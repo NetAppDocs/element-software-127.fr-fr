@@ -19,6 +19,7 @@ Les scénarios suivants présentent les scénarios de défaillance possibles et 
 
 
 
+[[system-slice-drive-fails]]
 == Le disque de coupe du système est défaillant
 
 * Dans ce scénario, l'emplacement 2 est vérifié et renvoyé à un état disponible.
@@ -31,6 +32,7 @@ NOTE: Vous ne pouvez pas ajouter le lecteur dans l'emplacement 2 en tant que lec
 
 
 
+[[slot-2-fails]]
 == Le slot 2 est défaillant
 
 * Dans ce scénario, le lecteur de tranche système est vérifié et renvoyé à un état disponible.
@@ -39,6 +41,7 @@ NOTE: Vous ne pouvez pas ajouter le lecteur dans l'emplacement 2 en tant que lec
 
 
 
+[[system-slice-drive-and-slot-2-fails]]
 == Le lecteur de tranche système et le logement 2 sont défectueux
 
 * Vous devez remplacer le lecteur de tranche système et le logement 2 par un lecteur de rechange. Lorsque les deux lecteurs deviennent disponibles, ajoutez simultanément le lecteur de tranche système et le lecteur de logement 2.
@@ -46,6 +49,7 @@ NOTE: Vous ne pouvez pas ajouter le lecteur dans l'emplacement 2 en tant que lec
 
 
 
+[[order-of-operations]]
 == Ordre des opérations
 
 * Remplacez le lecteur matériel défectueux par un lecteur de rechange (remplacez les deux disques en cas de défaillance des deux disques).
@@ -54,6 +58,7 @@ NOTE: Vous ne pouvez pas ajouter le lecteur dans l'emplacement 2 en tant que lec
 
 
 
+[[verify-operations]]
 == Vérifiez les opérations
 
 * Vérifiez que les lecteurs du logement 0 (ou interne) et du logement 2 sont identifiés comme des lecteurs de métadonnées dans la liste lecteurs actifs.
@@ -62,6 +67,7 @@ NOTE: Vous ne pouvez pas ajouter le lecteur dans l'emplacement 2 en tant que lec
 
 
 
+[[for-more-information]]
 == Pour en savoir plus
 
 xref:task_troubleshoot_add_mdss_drives.adoc[Ajouter des lecteurs MDSS]

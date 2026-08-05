@@ -19,6 +19,7 @@ Vous pouvez utiliser VirtualNetworkID et VirtualNetworkTag (balise VLAN) de mani
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

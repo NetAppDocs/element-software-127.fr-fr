@@ -17,6 +17,7 @@ Dans la page volumes de l'onglet gestion, vous pouvez créer, modifier, cloner e
 
 
 
+[[create-a-volume]]
 == Créer un volume
 
 Vous pouvez créer un volume et l'associer à un compte donné. Chaque volume doit être associé à un compte. Cette association permet au compte d'accéder au volume via les initiateurs iSCSI à l'aide des informations d'identification CHAP.
@@ -59,6 +60,7 @@ Pour les volumes dont la valeur IOPS max ou Burst supérieure à 20,000, il faut
 
 
 
+[[view-volume-details]]
 == Afficher les détails du volume
 
 . Sélectionnez *Management* > *volumes*.
@@ -100,6 +102,7 @@ Pour les volumes dont la valeur IOPS max ou Burst supérieure à 20,000, il faut
 
 
 
+[[view-individual-volume-details]]
 == Afficher les détails individuels du volume
 
 Vous pouvez afficher les statistiques de performances des volumes individuels.
@@ -118,6 +121,7 @@ Le système affiche des informations détaillées ainsi que les graphiques de pe
 
 
 
+[[edit-active-volumes]]
 == Modifier les volumes actifs
 
 Vous pouvez modifier les attributs de volume, tels que les valeurs QoS, la taille du volume et l'unité de mesure dans laquelle les valeurs d'octet sont calculées. Vous pouvez également modifier l'accès au compte pour l'utilisation de la réplication ou restreindre l'accès au volume.
@@ -187,6 +191,7 @@ TIP: Configurez des volumes avec une valeur de bursting extrêmement élevée. L
 
 
 
+[[delete-a-volume]]
 == Supprimer un volume
 
 Vous pouvez supprimer un ou plusieurs volumes d'un cluster de stockage Element.
@@ -225,6 +230,7 @@ Le système déplace les volumes vers la zone *supprimé* de la page *volumes*.
 
 
 
+[[restore-a-deleted-volume]]
 == Restaurer un volume supprimé
 
 Vous pouvez restaurer un volume dans le système s'il a été supprimé mais pas encore purgé. Le système purge automatiquement un volume environ huit heures après sa suppression. Si le système a purgé le volume, vous ne pouvez pas le restaurer.
@@ -241,6 +247,7 @@ Le volume est placé dans la liste des volumes *actifs* et les connexions iSCSI 
 
 
 
+[[purge-a-volume]]
 == Purger un volume
 
 Lorsqu'un volume est purgé, il est définitivement supprimé du système. Toutes les données du volume sont perdues.
@@ -280,6 +287,7 @@ Supprimez plusieurs volumes
 
 
 
+[[clone-a-volume]]
 == Clonez un volume
 
 Vous pouvez créer un clone d'un ou plusieurs volumes pour effectuer une copie des données à un point dans le temps. Lorsque vous clonez un volume, le système crée un snapshot du volume, puis crée une copie des données référencées par le snapshot. Il s'agit d'un processus asynchrone, et la durée nécessaire de ce processus dépend de la taille du volume que vous clonez et de la charge actuelle du cluster.
@@ -336,6 +344,7 @@ NOTE: L'augmentation de la taille du volume d'un clone entraîne la création d'
 
 
 
+[[for-more-information]]
 == Pour en savoir plus
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]

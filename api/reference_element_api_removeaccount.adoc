@@ -15,6 +15,7 @@ Vous pouvez utiliser la `RemoveAccount` méthode pour supprimer un compte exista
 
 
 
+[[parameter]]
 == Paramètre
 
 Cette méthode dispose du paramètre d'entrée suivant :
@@ -37,12 +38,14 @@ Oui
 |===
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode n'a pas de valeur de retour.
 
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes de cette méthode sont similaires à l'exemple suivant.
@@ -59,6 +62,7 @@ Les demandes de cette méthode sont similaires à l'exemple suivant.
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode renvoie une réponse similaire à l'exemple suivant :
@@ -73,12 +77,14 @@ Cette méthode renvoie une réponse similaire à l'exemple suivant :
 ----
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 9,6
 
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_deletevolume.adoc[DeleteVolume]

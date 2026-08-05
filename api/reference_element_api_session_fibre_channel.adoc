@@ -15,6 +15,7 @@ L'objet session contient des informations sur chaque session Fibre Channel visib
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -85,6 +86,7 @@ entier
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_listfibrechannelsessions.adoc[ListFibreChannelSessions]

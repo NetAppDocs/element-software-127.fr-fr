@@ -35,6 +35,7 @@ Après l'ajout d'un cluster de stockage, vous pouvez surveiller les performances
 
 
 
+[[add-a-storage-cluster]]
 == Ajout d'un cluster de stockage
 
 Vous pouvez ajouter un cluster de stockage à l'inventaire des ressources du nœud de gestion à l'aide de NetApp Hybrid Cloud Control. Cela vous permet de gérer et de contrôler le cluster à l'aide de l'interface utilisateur HCC.
@@ -63,6 +64,7 @@ NOTE: Une fois le cluster de stockage ajouté, l'inventaire du cluster peut pren
 
 
 
+[[confirm-storage-cluster-status]]
 == Confirmation de l'état du cluster de stockage
 
 Vous pouvez contrôler l'état de connexion des ressources des clusters de stockage à l'aide de l'interface utilisateur NetApp Hybrid Cloud Control.
@@ -76,6 +78,7 @@ Vous pouvez contrôler l'état de connexion des ressources des clusters de stock
 
 
 
+[[edit-storage-cluster-credentials]]
 == Modifier les informations d'identification du cluster de stockage
 
 Vous pouvez modifier le nom d'utilisateur et le mot de passe de l'administrateur du cluster de stockage à l'aide de l'interface utilisateur NetApp Hybrid Cloud Control.
@@ -91,6 +94,7 @@ Vous pouvez modifier le nom d'utilisateur et le mot de passe de l'administrateur
 
 
 
+[[remove-a-storage-cluster]]
 == Retirer un cluster de stockage
 
 Le retrait d'un cluster de stockage de NetApp Hybrid Cloud Control supprime le cluster de l'inventaire des nœuds de gestion. Une fois le cluster de stockage supprimé, le cluster ne peut plus être géré par HCC et vous ne pouvez y accéder qu'en accédant directement à son adresse IP de gestion.
@@ -112,6 +116,7 @@ CAUTION: Si vous sélectionnez *Oui* Suivant, le cluster sera supprimé de l'ins
 
 
 
+[[enable-and-disable-maintenance-mode]]
 == Activation et désactivation du mode de maintenance
 
 Si vous devez mettre un nœud de stockage hors ligne à des fins de maintenance, telles que des mises à niveau logicielles ou des réparations à l'hôte, vous pouvez réduire l'impact des E/S sur le reste du cluster de stockage en <<enable_main_mode,activation>>mode de maintenance pour ce nœud. Lorsque vous <<disable_main_mode,désactiver>>êtes en mode maintenance, le nœud est surveillé de manière à s'assurer que certains critères sont remplis avant que le nœud ne puisse quitter le mode maintenance.
@@ -125,6 +130,7 @@ Si vous devez mettre un nœud de stockage hors ligne à des fins de maintenance,
 
 
 
+[[enablemainmodeenable-maintenance-mode]]
 === [[enable_main_mode]]activez le mode de maintenance
 
 Pour activer le mode maintenance d'un nœud de cluster de stockage, vous pouvez utiliser la procédure suivante.
@@ -170,6 +176,7 @@ Une fois que *l'activation du mode Maintenance* est terminée, la colonne *Node 
 
 
 
+[[disablemainmodedisable-maintenance-mode]]
 === [[disable_main_mode]]Désactiver le mode de maintenance
 
 Une fois qu'un nœud a été placé en mode maintenance, l'action *Désactiver le mode maintenance* est disponible pour ce nœud. Les actions sur les autres nœuds sont indisponibles jusqu'à la désactivation du mode de maintenance sur le nœud en cours de maintenance.
@@ -190,6 +197,7 @@ NOTE: Lorsqu'un nœud est en mode maintenance, il n'accepte pas les nouvelles do
 
 
 
+[[troubleshoot]]
 === Résoudre les problèmes
 
 Si vous rencontrez des erreurs lorsque vous activez ou désactivez le mode de maintenance, une bannière d'erreur s'affiche en haut du tableau des nœuds. Pour plus d'informations sur l'erreur, vous pouvez sélectionner le lien *Afficher les détails* qui se trouve sur la bannière pour afficher les retours de l'API.

@@ -15,18 +15,21 @@ Vous pouvez utiliser cette `ResetNetworkConfig` méthode pour résoudre les prob
 
 
 
+[[parameters]]
 == Paramètres
 
 Cette méthode n'a pas de paramètres d'entrée.
 
 
 
+[[return-value]]
 == Retour de valeur
 
 Cette méthode n'a pas de valeurs de retour.
 
 
 
+[[request-example]]
 == Exemple de demande
 
 Les demandes pour cette méthode sont similaires à l'exemple suivant :
@@ -41,12 +44,14 @@ Les demandes pour cette méthode sont similaires à l'exemple suivant :
 ----
 
 
+[[response-example]]
 == Exemple de réponse
 
 Cette méthode ne renvoie pas de réponse.
 
 
 
+[[new-since-version]]
 == Nouveau depuis la version
 
 11,0

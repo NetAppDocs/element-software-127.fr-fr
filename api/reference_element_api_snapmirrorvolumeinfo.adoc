@@ -15,6 +15,7 @@ L'objet MirrorMirrorVolumeInfo contient des informations sur l'emplacement d'un 
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :

@@ -15,6 +15,7 @@ L'objet réseau SNMP contient des informations sur la configuration SNMP v3 pour
 
 
 
+[[object-members]]
 == Membres d'objet
 
 Cet objet contient les membres suivants :
@@ -67,6 +68,7 @@ chaîne
 |===
 
 
+[[find-more-information]]
 == Trouvez plus d'informations
 
 xref:reference_element_api_getsnmpinfo.adoc[GetSmpInfo]

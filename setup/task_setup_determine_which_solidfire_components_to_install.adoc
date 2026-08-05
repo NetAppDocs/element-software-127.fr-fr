@@ -60,6 +60,7 @@ NOTE: Pour configurer Active IQ, utilisez le `--telemetry_active` paramètre dan
 
 
 
+[[for-more-information]]
 == Pour en savoir plus
 
 * https://docs.netapp.com/us-en/element-software/index.html["Documentation SolidFire et Element"]
